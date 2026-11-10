@@ -1,0 +1,979 @@
+Species,MarketType,Year,MonthNumber,Week,Price_2025,Price_LastWeek,Change_LastYear_%,Price_Current
+Barracuda(L),Consumer,2026,3,1.0,2170.0,2580.0,14.7,2490.0
+Big eye scade,Consumer,2026,3,1.0,1133.33,1420.0,15.6,1310.0
+Cuttle fish,Consumer,2026,3,1.0,2160.0,2200.0,2.3,2210.0
+Frigate tuna,Consumer,2026,3,1.0,970.0,1315.0,28.9,1250.0
+Ginnati Paraw,Consumer,2026,3,1.0,1280.0,1680.0,22.7,1570.0
+Herrings,Consumer,2026,3,1.0,1230.0,1260.0,2.1,1204.0
+Indian Mackerel,Consumer,2026,3,1.0,1020.0,1430.0,31.4,1340.0
+Indian Scad,Consumer,2026,3,1.0,920.0,1140.0,8.4,997.5
+Katuwalla,Consumer,2026,3,1.0,720.0,740.0,6.5,766.67
+Kawakawa,Consumer,2026,3,1.0,1066.67,1320.0,18.1,1260.0
+Marlins,Consumer,2026,3,1.0,2690.0,3540.0,24.2,3340.0
+Needle fish,Consumer,2026,3,1.0,1200.0,1600.0,25.4,1505.0
+Prawns,Consumer,2026,3,1.0,2275.0,2785.0,28.2,2916.0
+Rainbow Runner,Consumer,2026,3,1.0,970.0,1360.0,36.1,1320.0
+Red Bream(L),Consumer,2026,3,1.0,1720.0,1880.0,4.1,1790.0
+Rock fish (L),Consumer,2026,3,1.0,2280.0,2436.0,2.6,2340.0
+Sail fish,Consumer,2026,3,1.0,2513.33,3170.0,19.9,3013.33
+Sardinella,Consumer,2026,3,1.0,653.33,790.0,19.4,780.0
+Sea Crabs(L),Consumer,2026,3,1.0,2670.0,3190.0,19.5,3190.0
+Seer,Consumer,2026,3,1.0,3100.0,4095.0,23.1,3816.0
+Shark,Consumer,2026,3,1.0,2010.0,2110.0,2.5,2060.0
+Skipjack tuna,Consumer,2026,3,1.0,1180.0,1560.0,33.1,1570.0
+Threadfin Bream,Consumer,2026,3,1.0,1186.67,1520.0,14.6,1360.0
+Tilapia,Consumer,2026,3,1.0,960.0,1020.0,3.1,990.0
+Trevally (L),Consumer,2026,3,1.0,2106.67,2612.0,10.9,2336.0
+White Sardinella,Consumer,2026,3,1.0,435.0,480.0,8.0,470.0
+Yellowfin tuna,Consumer,2026,3,1.0,2120.0,2345.0,12.3,2380.0
+Barracuda(L),Wholesale,2026,3,1.0,1237.5,1250.0,8.7,1130.0
+Big eye scade,Wholesale,2026,3,1.0,860.0,1133.33,9.3,940.0
+Frigate tuna,Wholesale,2026,3,1.0,650.0,875.0,13.5,737.5
+Ginnati Paraw,Wholesale,2026,3,1.0,883.33,1200.0,35.8,1200.0
+Herrings,Wholesale,2026,3,1.0,900.0,966.67,5.6,950.0
+Indian Anchovies,Wholesale,2026,3,1.0,1958.33,1640.0,7.7,1808.33
+Indian Mackerel,Wholesale,2026,3,1.0,900.0,1257.14,29.2,1162.5
+Indian Scad,Wholesale,2026,3,1.0,771.43,985.71,11.8,862.5
+Indian Scad,Wholesale,2026,3,1.0,675.0,785.71,4.9,708.33
+Katuwalla,Wholesale,2026,3,1.0,475.0,580.0,7.0,441.67
+Kawakawa,Wholesale,2026,3,1.0,787.5,1054.17,27.0,1000.0
+Marlins,Wholesale,2026,3,1.0,1417.86,2228.57,35.2,1916.67
+Needle fish,Wholesale,2026,3,1.0,895.83,1135.71,2.7,920.0
+Pony fish,Wholesale,2026,3,1.0,216.67,346.43,21.2,262.5
+Prawns,Wholesale,2026,3,1.0,3.0,1792.86,22.3,2057.14
+Rainbow Runner,Wholesale,2026,3,1.0,700.0,914.29,21.4,850.0
+Red Bream(L),Wholesale,2026,3,1.0,1191.67,1420.0,1.0,1180.0
+Rock fish (L),Wholesale,2026,3,1.0,1250.0,1316.67,4.0,1200.0
+Rock fish (S),Wholesale,2026,3,1.0,833.33,1021.43,1.0,841.67
+Sail fish,Wholesale,2026,3,1.0,1270.0,1900.0,31.9,1675.0
+Sardinella,Wholesale,2026,3,1.0,482.14,435.71,9.8,435.0
+Sea Crabs(L),Wholesale,2026,3,1.0,1790.0,2207.14,32.0,2362.5
+Seer,Wholesale,2026,3,1.0,1525.0,2430.0,23.0,1875.0
+Shark,Wholesale,2026,3,1.0,1050.0,1233.33,9.5,1150.0
+Skipjack tuna,Wholesale,2026,3,1.0,685.71,885.71,24.7,855.0
+Cuttle fish,Wholesale,2026,3,1.0,1766.67,1940.0,7.2,1640.0
+Threadfin Bream,Wholesale,2026,3,1.0,837.5,1150.0,14.6,960.0
+Trevally (L),Wholesale,2026,3,1.0,1150.0,1335.71,3.6,1108.33
+White Sardinella,Wholesale,2026,3,1.0,365.0,306.25,18.1,299.0
+Yellowfin tuna,Wholesale,2026,3,1.0,1035.71,1207.14,9.1,1130.0
+Anchovy,Consumer,2026,3,2.0,545.0,720.0,18.9,648.0
+Barracuda(L),Consumer,2026,3,2.0,2080.0,2490.0,7.1,2226.67
+Big eye scade,Consumer,2026,3,2.0,1060.0,1310.0,21.7,1290.0
+Cuttle fish,Consumer,2026,3,2.0,2025.0,2210.0,11.1,2250.0
+Frigate tuna,Consumer,2026,3,2.0,1080.0,1250.0,13.0,1220.0
+Ginnati Paraw,Consumer,2026,3,2.0,1110.0,1570.0,32.1,1466.67
+Herrings,Consumer,2026,3,2.0,1160.0,1204.0,1.7,1180.0
+Indian Mackerel,Consumer,2026,3,2.0,1040.0,1340.0,25.0,1300.0
+Indian Scad,Consumer,2026,3,2.0,898.33,997.5,9.5,983.33
+Kawakawa,Consumer,2026,3,2.0,1116.0,1260.0,10.2,1230.0
+Marlins,Consumer,2026,3,2.0,2720.0,3340.0,9.9,2990.0
+Needle fish,Consumer,2026,3,2.0,1060.0,1505.0,42.5,1510.0
+Pony fish,Consumer,2026,3,2.0,395.0,420.0,5.1,415.0
+Prawns,Consumer,2026,3,2.0,2320.0,2916.0,26.7,2940.0
+Rainbow Runner,Consumer,2026,3,2.0,936.67,1320.0,30.2,1220.0
+Red Bream(L),Consumer,2026,3,2.0,1640.0,1790.0,4.9,1720.0
+Rock fish (L),Consumer,2026,3,2.0,2090.0,2340.0,7.8,1926.67
+Sail fish,Consumer,2026,3,2.0,2532.5,3013.33,13.9,2883.33
+Sardinella,Consumer,2026,3,2.0,604.0,780.0,13.7,686.67
+Sea Crabs(L),Consumer,2026,3,2.0,2640.0,3190.0,19.7,3160.0
+Seer,Consumer,2026,3,2.0,3060.0,3816.0,25.0,3824.0
+Shark,Consumer,2026,3,2.0,1966.67,2060.0,3.7,2040.0
+Skipjack tuna,Consumer,2026,3,2.0,1235.0,1570.0,26.3,1560.0
+Threadfin Bream,Consumer,2026,3,2.0,996.0,1360.0,33.5,1330.0
+Trevally (L),Consumer,2026,3,2.0,2046.67,2336.0,7.3,2196.0
+White Sardinella,Consumer,2026,3,2.0,390.0,470.0,12.0,436.67
+Yellowfin tuna,Consumer,2026,3,2.0,2112.0,2380.0,17.4,2480.0
+Barracuda(L),Wholesale,2026,3,2.0,1066.67,1130.0,1.6,1050.0
+Big eye scade,Wholesale,2026,3,2.0,758.33,940.0,16.0,880.0
+Frigate tuna,Wholesale,2026,3,2.0,700.0,737.5,3.6,725.0
+Ginnati Paraw,Wholesale,2026,3,2.0,733.33,1200.0,60.2,1175.0
+Herrings,Wholesale,2026,3,2.0,780.0,950.0,9.0,850.0
+Indian Anchovies,Wholesale,2026,3,2.0,1850.0,1808.33,0.9,1866.67
+Indian Mackerel,Wholesale,2026,3,2.0,758.33,1162.5,17.0,887.5
+Indian Scad,Wholesale,2026,3,2.0,666.67,862.5,14.1,760.71
+Indian Scad,Wholesale,2026,3,2.0,560.0,708.33,19.4,668.75
+Katuwalla,Wholesale,2026,3,2.0,512.5,441.67,26.8,650.0
+Kawakawa,Wholesale,2026,3,2.0,850.0,1000.0,5.9,900.0
+Marlins,Wholesale,2026,3,2.0,1558.33,1916.67,11.2,1733.33
+Needle fish,Wholesale,2026,3,2.0,750.0,920.0,34.3,1007.14
+Pony fish,Wholesale,2026,3,2.0,200.0,262.5,5.7,211.43
+Prawns,Wholesale,2026,3,2.0,3.0,1870.0,18.5,2516.67
+Rainbow Runner,Wholesale,2026,3,2.0,570.0,850.0,15.3,657.14
+Red Bream(L),Wholesale,2026,3,2.0,1080.0,1180.0,6.5,1150.0
+Rock fish (L),Wholesale,2026,3,2.0,1030.0,1200.0,0.3,1033.33
+Rock fish (S),Wholesale,2026,3,2.0,750.0,841.67,2.2,733.33
+Sail fish,Wholesale,2026,3,2.0,1350.0,1675.0,15.3,1557.14
+Sardinella,Wholesale,2026,3,2.0,406.0,435.0,15.4,343.33
+Sea Crabs(L),Wholesale,2026,3,2.0,1766.67,2362.5,23.4,2180.0
+Seer,Wholesale,2026,3,2.0,1300.0,1875.0,46.2,1900.0
+Shark,Wholesale,2026,3,2.0,900.0,1150.0,12.2,1010.0
+Skipjack tuna,Wholesale,2026,3,2.0,725.0,855.0,13.3,821.43
+Cuttle fish,Wholesale,2026,3,2.0,1525.0,1640.0,16.6,1778.57
+Threadfin Bream,Wholesale,2026,3,2.0,690.0,960.0,39.8,964.29
+Trevally (L),Wholesale,2026,3,2.0,1000.0,1108.33,16.3,837.5
+White Sardinella,Wholesale,2026,3,2.0,275.0,299.0,1.8,270.0
+Yellowfin tuna,Wholesale,2026,3,2.0,1050.0,1130.0,15.0,1207.14
+Anchovy,Consumer,2026,3,3.0,560.0,648.0,16.1,650.0
+Barracuda(L),Consumer,2026,3,3.0,2040.0,2226.67,6.9,1900.0
+Big eye scade,Consumer,2026,3,3.0,993.33,1290.0,30.1,1292.5
+Cuttle fish,Consumer,2026,3,3.0,2150.0,2250.0,0.0,2150.0
+Frigate tuna,Consumer,2026,3,3.0,1090.0,1220.0,1.8,1110.0
+Ginnati Paraw,Consumer,2026,3,3.0,1120.0,1466.67,22.6,1373.33
+Herrings,Consumer,2026,3,3.0,1206.67,1180.0,2.4,1236.0
+Indian Mackerel,Consumer,2026,3,3.0,966.67,1300.0,36.6,1320.0
+Indian Scad,Consumer,2026,3,3.0,830.0,983.33,17.9,978.33
+Kawakawa,Consumer,2026,3,3.0,1180.0,1230.0,5.1,1240.0
+Marlins,Consumer,2026,3,3.0,2780.0,2990.0,5.3,2926.67
+Needle fish,Consumer,2026,3,3.0,1100.0,1510.0,20.6,1326.67
+Prawns,Consumer,2026,3,3.0,2360.0,2940.0,28.8,3040.0
+Rainbow Runner,Consumer,2026,3,3.0,933.33,1220.0,33.2,1243.33
+Red Bream(L),Consumer,2026,3,3.0,1690.0,1720.0,11.4,1883.33
+Rock fish (L),Consumer,2026,3,3.0,2040.0,1926.67,0.7,2025.0
+Sail fish,Consumer,2026,3,3.0,2596.0,2883.33,8.4,2814.17
+Sardinella,Consumer,2026,3,3.0,576.0,686.67,14.6,660.0
+Sea Crabs(L),Consumer,2026,3,3.0,2690.0,3160.0,17.1,3150.0
+Seer,Consumer,2026,3,3.0,3130.0,3824.0,15.8,3625.0
+Shark,Consumer,2026,3,3.0,1945.0,2040.0,6.7,2075.0
+Skipjack tuna,Consumer,2026,3,3.0,1288.0,1560.0,18.8,1530.0
+Threadfin Bream,Consumer,2026,3,3.0,995.0,1330.0,35.2,1345.0
+Trevally (L),Consumer,2026,3,3.0,2016.0,2196.0,21.8,2455.0
+White Sardinella,Consumer,2026,3,3.0,380.0,436.67,11.8,425.0
+Yellowfin tuna,Consumer,2026,3,3.0,1976.67,2480.0,16.9,2310.0
+Barracuda(L),Wholesale,2026,3,3.0,1014.29,1050.0,2.8,1042.86
+Big eye scade,Wholesale,2026,3,3.0,715.0,880.0,32.9,950.0
+Frigate tuna,Wholesale,2026,3,3.0,825.0,725.0,12.6,720.83
+Ginnati Paraw,Wholesale,2026,3,3.0,800.0,1175.0,32.5,1060.0
+Herrings,Wholesale,2026,3,3.0,858.33,850.0,5.7,907.14
+Indian Anchovies,Wholesale,2026,3,3.0,1620.0,1866.67,9.5,1466.67
+Indian Mackerel,Wholesale,2026,3,3.0,714.29,887.5,43.5,1025.0
+Indian Scad,Wholesale,2026,3,3.0,623.57,760.71,20.8,753.57
+Indian Scad,Wholesale,2026,3,3.0,571.43,668.75,8.6,620.83
+Katuwalla,Wholesale,2026,3,3.0,400.0,650.0,2.7,410.71
+Kawakawa,Wholesale,2026,3,3.0,1007.14,900.0,8.2,925.0
+Marlins,Wholesale,2026,3,3.0,1492.86,1733.33,4.3,1557.14
+Needle fish,Wholesale,2026,3,3.0,785.71,1007.14,20.9,950.0
+Pony fish,Wholesale,2026,3,3.0,212.5,211.43,16.0,246.43
+Prawns,Wholesale,2026,3,3.0,3.0,1871.43,12.5,2050.0
+Rainbow Runner,Wholesale,2026,3,3.0,558.33,657.14,39.4,778.57
+Red Bream(L),Wholesale,2026,3,3.0,1107.14,1150.0,3.1,1141.67
+Rock fish (L),Wholesale,2026,3,3.0,1021.43,1033.33,11.9,1142.86
+Rock fish (S),Wholesale,2026,3,3.0,783.33,733.33,9.8,860.0
+Sail fish,Wholesale,2026,3,3.0,1492.86,1557.14,3.8,1435.71
+Sardinella,Wholesale,2026,3,3.0,404.17,343.33,25.8,300.0
+Sea Crabs(L),Wholesale,2026,3,3.0,1850.0,2180.0,18.5,2191.67
+Seer,Wholesale,2026,3,3.0,1571.43,1900.0,9.1,1714.29
+Shark,Wholesale,2026,3,3.0,900.0,1010.0,25.9,1133.33
+Skipjack tuna,Wholesale,2026,3,3.0,853.57,821.43,13.8,735.71
+Cuttle fish,Wholesale,2026,3,3.0,1685.0,1778.57,4.6,1607.14
+Threadfin Bream,Wholesale,2026,3,3.0,728.57,964.29,30.4,950.0
+Trevally (L),Wholesale,2026,3,3.0,1000.0,837.5,1.4,1014.29
+White Sardinella,Wholesale,2026,3,3.0,255.0,270.0,1.3,258.33
+Yellowfin tuna,Wholesale,2026,3,3.0,1004.17,1207.14,9.5,1100.0
+Anchovy,Consumer,2026,3,4.0,580.0,650.0,10.3,640.0
+Barracuda(L),Consumer,2026,3,4.0,2090.0,1900.0,0.0,2090.0
+Big eye scade,Consumer,2026,3,4.0,986.67,1292.5,29.7,1280.0
+Cuttle fish,Consumer,2026,3,4.0,2100.0,2150.0,4.8,2200.0
+Frigate tuna,Consumer,2026,3,4.0,1093.33,1110.0,12.5,1230.0
+Ginnati Paraw,Consumer,2026,3,4.0,1135.0,1373.33,41.9,1610.0
+Herrings,Consumer,2026,3,4.0,1096.67,1236.0,11.9,1226.67
+Indian Mackerel,Consumer,2026,3,4.0,960.0,1320.0,39.1,1335.0
+Indian Scad,Consumer,2026,3,4.0,863.33,978.33,19.3,1030.0
+Katuwalla,Consumer,2026,3,4.0,670.0,740.0,19.4,800.0
+Kawakawa,Consumer,2026,3,4.0,1110.0,1240.0,20.1,1333.33
+Marlins,Consumer,2026,3,4.0,2893.33,2926.67,2.3,2826.67
+Needle fish,Consumer,2026,3,4.0,1080.0,1326.67,25.0,1350.0
+Prawns,Consumer,2026,3,4.0,2333.33,3040.0,17.3,2736.0
+Rainbow Runner,Consumer,2026,3,4.0,953.33,1243.33,18.5,1130.0
+Rock fish (L),Consumer,2026,3,4.0,2050.0,2025.0,0.5,2040.0
+Sail fish,Consumer,2026,3,4.0,2446.67,2814.17,10.0,2692.0
+Sardinella,Consumer,2026,3,4.0,558.0,660.0,32.6,740.0
+Sea Crabs(L),Consumer,2026,3,4.0,2673.33,3150.0,24.9,3340.0
+Seer,Consumer,2026,3,4.0,3016.0,3625.0,20.9,3645.0
+Shark,Consumer,2026,3,4.0,1960.0,2075.0,7.1,2100.0
+Skipjack tuna,Consumer,2026,3,4.0,1266.67,1530.0,26.3,1600.0
+Threadfin Bream,Consumer,2026,3,4.0,970.0,1345.0,38.1,1340.0
+Trevally (L),Consumer,2026,3,4.0,2005.0,2455.0,21.2,2430.0
+White Sardinella,Consumer,2026,3,4.0,365.0,425.0,31.5,480.0
+Yellowfin tuna,Consumer,2026,3,4.0,2016.67,2310.0,17.8,2376.0
+Barracuda(L),Wholesale,2026,3,4.0,1028.57,1042.86,2.0,1008.33
+Big eye scade,Wholesale,2026,3,4.0,690.0,950.0,29.4,892.86
+Frigate tuna,Wholesale,2026,3,4.0,900.0,720.83,27.8,650.0
+Ginnati Paraw,Wholesale,2026,3,4.0,858.33,1060.0,39.8,1200.0
+Herrings,Wholesale,2026,3,4.0,857.14,907.14,4.0,891.67
+Indian Anchovies,Wholesale,2026,3,4.0,1500.0,1466.67,8.3,1375.0
+Indian Mackerel,Wholesale,2026,3,4.0,739.29,1025.0,30.8,966.67
+Indian Scad,Wholesale,2026,3,4.0,689.29,753.57,8.8,750.0
+Indian Scad,Wholesale,2026,3,4.0,607.14,620.83,2.4,592.86
+Katuwalla,Wholesale,2026,3,4.0,410.0,410.71,22.0,500.0
+Kawakawa,Wholesale,2026,3,4.0,942.86,925.0,2.3,964.29
+Marlins,Wholesale,2026,3,4.0,1571.43,1557.14,3.2,1521.43
+Needle fish,Wholesale,2026,3,4.0,778.57,950.0,24.2,966.67
+Pony fish,Wholesale,2026,3,4.0,240.0,246.43,20.8,290.0
+Prawns,Wholesale,2026,3,4.0,3.0,1771.43,12.1,2307.14
+Rainbow Runner,Wholesale,2026,3,4.0,635.71,778.57,10.1,700.0
+Red Bream(L),Wholesale,2026,3,4.0,1021.43,1141.67,32.2,1350.0
+Rock fish (L),Wholesale,2026,3,4.0,1020.0,1142.86,7.8,1100.0
+Rock fish (S),Wholesale,2026,3,4.0,770.0,860.0,1.7,783.33
+Sail fish,Wholesale,2026,3,4.0,1392.86,1435.71,3.1,1350.0
+Sardinella,Wholesale,2026,3,4.0,353.57,300.0,12.0,395.83
+Sea Crabs(L),Wholesale,2026,3,4.0,1642.86,2191.67,52.8,2510.0
+Seer,Wholesale,2026,3,4.0,1357.14,1714.29,24.6,1691.67
+Shark,Wholesale,2026,3,4.0,975.0,1133.33,28.2,1250.0
+Skipjack tuna,Wholesale,2026,3,4.0,695.83,735.71,17.0,814.29
+Cuttle fish,Wholesale,2026,3,4.0,1633.33,1607.14,3.6,1692.86
+Threadfin Bream,Wholesale,2026,3,4.0,695.0,950.0,45.3,1010.0
+Trevally (L),Wholesale,2026,3,4.0,950.0,1014.29,14.0,1083.33
+White Sardinella,Wholesale,2026,3,4.0,235.0,258.33,25.1,294.0
+Yellowfin tuna,Wholesale,2026,3,4.0,1100.0,1100.0,0.6,1107.14
+Anchovy,Consumer,2026,4,1.0,580.0,640.0,60.4,930.5
+Barracuda(L),Consumer,2026,4,1.0,2090.0,2090.0,2.9,2150.0
+Big eye scade,Consumer,2026,4,1.0,986.67,1280.0,40.4,1385.0
+Cuttle fish,Consumer,2026,4,1.0,2100.0,2200.0,14.3,2400.0
+Frigate tuna,Consumer,2026,4,1.0,1093.33,1230.0,20.7,1320.0
+Ginnati Paraw,Consumer,2026,4,1.0,1135.0,1610.0,42.1,1613.33
+Herrings,Consumer,2026,4,1.0,1096.67,1226.67,27.4,1397.5
+Indian Mackerel,Consumer,2026,4,1.0,960.0,1335.0,44.3,1385.0
+Indian Scad,Consumer,2026,4,1.0,863.33,1030.0,23.4,1065.0
+Kawakawa,Consumer,2026,4,1.0,1110.0,1333.33,21.0,1343.13
+Marlins,Consumer,2026,4,1.0,2893.33,2826.67,5.4,3050.0
+Needle fish,Consumer,2026,4,1.0,1080.0,1350.0,25.9,1360.0
+Prawns,Consumer,2026,4,1.0,2333.33,2736.0,34.6,3140.0
+Rock fish (L),Consumer,2026,4,1.0,2050.0,2040.0,16.1,2380.0
+Sail fish,Consumer,2026,4,1.0,2446.67,2692.0,16.7,2856.0
+Sardinella,Consumer,2026,4,1.0,558.0,740.0,70.3,950.0
+Sea Crabs(L),Consumer,2026,4,1.0,2673.33,3340.0,24.6,3330.0
+Seer,Consumer,2026,4,1.0,3016.0,3645.0,24.2,3746.67
+Shark,Consumer,2026,4,1.0,1960.0,2100.0,4.3,2045.0
+Skipjack tuna,Consumer,2026,4,1.0,1266.67,1600.0,49.2,1890.0
+Threadfin Bream,Consumer,2026,4,1.0,970.0,1340.0,50.5,1460.0
+Trevally (L),Consumer,2026,4,1.0,2005.0,2430.0,23.2,2470.0
+White Sardinella,Consumer,2026,4,1.0,365.0,480.0,68.0,613.33
+Yellowfin tuna,Consumer,2026,4,1.0,2016.67,2376.0,29.9,2620.0
+Barracuda(L),Wholesale,2026,4,1.0,950.0,1008.33,19.3,1133.33
+Frigate tuna,Wholesale,2026,4,1.0,650.0,650.0,50.0,975.0
+Ginnati Paraw,Wholesale,2026,4,1.0,868.75,1200.0,49.6,1300.0
+Herrings,Wholesale,2026,4,1.0,871.43,891.67,26.2,1100.0
+Indian Anchovies,Wholesale,2026,4,1.0,1320.0,1375.0,21.2,1600.0
+Indian Mackerel,Wholesale,2026,4,1.0,839.29,966.67,38.5,1162.5
+Indian Scad,Wholesale,2026,4,1.0,740.71,750.0,22.1,904.17
+Indian Scad,Wholesale,2026,4,1.0,600.0,592.86,20.0,720.0
+Katuwalla,Wholesale,2026,4,1.0,375.0,500.0,20.0,450.0
+Kawakawa,Wholesale,2026,4,1.0,940.0,964.29,13.5,1066.67
+Marlins,Wholesale,2026,4,1.0,1700.0,1521.43,8.8,1850.0
+Needle fish,Wholesale,2026,4,1.0,870.0,966.67,23.6,1075.0
+Pony fish,Wholesale,2026,4,1.0,262.5,290.0,9.5,287.5
+Prawns,Wholesale,2026,4,1.0,3.0,1985.71,24.1,2028.57
+Rainbow Runner,Wholesale,2026,4,1.0,700.0,700.0,9.5,766.67
+Red Bream(L),Wholesale,2026,4,1.0,1120.83,1350.0,16.0,1300.0
+Rock fish (L),Wholesale,2026,4,1.0,1200.0,1100.0,2.1,1225.0
+Rock fish (S),Wholesale,2026,4,1.0,800.0,783.33,35.4,1083.33
+Sail fish,Wholesale,2026,4,1.0,1450.0,1350.0,14.9,1666.67
+Sardinella,Wholesale,2026,4,1.0,318.57,395.83,88.3,600.0
+Sea Crabs(L),Wholesale,2026,4,1.0,2000.0,2510.0,12.5,2250.0
+Seer,Wholesale,2026,4,1.0,1420.0,1691.67,45.5,2066.67
+Shark,Wholesale,2026,4,1.0,933.33,1250.0,28.6,1200.0
+Skipjack tuna,Wholesale,2026,4,1.0,808.33,814.29,17.0,945.83
+Cuttle fish,Wholesale,2026,4,1.0,1750.0,1692.86,1.9,1716.67
+Threadfin Bream,Wholesale,2026,4,1.0,866.67,1010.0,38.5,1200.0
+Trevally (L),Wholesale,2026,4,1.0,992.86,1083.33,15.0,1141.67
+White Sardinella,Wholesale,2026,4,1.0,252.86,294.0,78.0,450.0
+Yellowfin tuna,Wholesale,2026,4,1.0,1200.0,1107.14,9.0,1308.33
+Anchovy,Consumer,2026,4,2.0,520.0,930.5,38.5,720.0
+Barracuda(L),Consumer,2026,4,2.0,1960.0,2150.0,19.4,2340.0
+Big eye scade,Consumer,2026,4,2.0,1166.67,1385.0,20.0,1400.0
+Cuttle fish,Consumer,2026,4,2.0,2000.0,2400.0,20.0,2400.0
+Frigate tuna,Consumer,2026,4,2.0,1120.0,1320.0,23.2,1380.0
+Herrings,Consumer,2026,4,2.0,1206.67,1397.5,9.4,1320.0
+Indian Mackerel,Consumer,2026,4,2.0,1206.67,1385.0,19.3,1440.0
+Indian Scad,Consumer,2026,4,2.0,987.5,1065.0,13.2,1118.0
+Kawakawa,Consumer,2026,4,2.0,1203.33,1343.13,17.2,1410.0
+Marlins,Consumer,2026,4,2.0,3100.0,3050.0,5.5,3270.0
+Needle fish,Consumer,2026,4,2.0,1220.0,1360.0,36.4,1664.0
+Prawns,Consumer,2026,4,2.0,2466.67,3140.0,19.7,2953.33
+Red Bream(L),Consumer,2026,4,2.0,1853.33,1890.0,3.6,1920.0
+Rock fish (L),Consumer,2026,4,2.0,2160.0,2380.0,10.6,2390.0
+Sail fish,Consumer,2026,4,2.0,2696.67,2856.0,6.9,2882.0
+Sardinella,Consumer,2026,4,2.0,702.0,950.0,42.5,1000.0
+Sea Crabs(L),Consumer,2026,4,2.0,2840.0,3330.0,18.3,3360.0
+Seer,Consumer,2026,4,2.0,3295.0,3746.67,13.5,3740.0
+Shark,Consumer,2026,4,2.0,2050.0,2045.0,6.0,1926.67
+Skipjack tuna,Consumer,2026,4,2.0,1510.0,1890.0,22.1,1843.3
+Trevally (L),Consumer,2026,4,2.0,2200.0,2470.0,14.4,2516.0
+White Sardinella,Consumer,2026,4,2.0,490.0,613.33,34.7,660.0
+Yellowfin tuna,Consumer,2026,4,2.0,2425.0,2620.0,12.7,2732.67
+Barracuda(L),Wholesale,2026,4,2.0,1120.0,1133.33,23.5,1383.33
+Big eye scade,Wholesale,2026,4,2.0,962.5,1350.0,18.2,1137.5
+Ginnati Paraw,Wholesale,2026,4,2.0,1200.0,1300.0,15.0,1380.0
+Herrings,Wholesale,2026,4,2.0,950.0,1100.0,3.4,917.86
+Indian Anchovies,Wholesale,2026,4,2.0,1800.0,1600.0,2.2,1760.0
+Indian Mackerel,Wholesale,2026,4,2.0,980.0,1162.5,15.6,1133.33
+Indian Scad,Wholesale,2026,4,2.0,875.0,904.17,4.3,912.5
+Indian Scad,Wholesale,2026,4,2.0,668.75,720.0,0.9,675.0
+Katuwalla,Wholesale,2026,4,2.0,500.0,450.0,50.0,750.0
+Kawakawa,Wholesale,2026,4,2.0,1150.0,1066.67,2.2,1175.0
+Marlins,Wholesale,2026,4,2.0,2008.33,1850.0,7.4,2157.14
+Needle fish,Wholesale,2026,4,2.0,1060.0,1075.0,13.2,1200.0
+Pony fish,Wholesale,2026,4,2.0,300.0,287.5,16.7,350.0
+Prawns,Wholesale,2026,4,2.0,3.0,2050.0,11.4,2516.67
+Rainbow Runner,Wholesale,2026,4,2.0,705.0,766.67,6.4,750.0
+Red Bream(L),Wholesale,2026,4,2.0,1400.0,1300.0,14.3,1600.0
+Rock fish (L),Wholesale,2026,4,2.0,1333.33,1225.0,12.5,1500.0
+Rock fish (S),Wholesale,2026,4,2.0,862.5,1083.33,27.5,1100.0
+Sail fish,Wholesale,2026,4,2.0,1800.0,1666.67,0.8,1785.71
+Sardinella,Wholesale,2026,4,2.0,411.37,600.0,52.9,629.17
+Sea Crabs(L),Wholesale,2026,4,2.0,2166.67,2250.0,3.8,2250.0
+Seer,Wholesale,2026,4,2.0,1660.0,2066.67,22.9,2040.0
+Shark,Wholesale,2026,4,2.0,1100.0,1200.0,1.5,1116.67
+Skipjack tuna,Wholesale,2026,4,2.0,1120.0,945.83,19.6,900.0
+Cuttle fish,Wholesale,2026,4,2.0,1648.33,1716.67,10.7,1825.0
+Threadfin Bream,Wholesale,2026,4,2.0,1033.33,1200.0,16.1,1200.0
+Trevally (L),Wholesale,2026,4,2.0,1200.0,1141.67,11.7,1340.0
+White Sardinella,Wholesale,2026,4,2.0,349.0,450.0,32.5,462.5
+Yellowfin tuna,Wholesale,2026,4,2.0,1620.0,1308.33,9.0,1475.0
+Anchovy,Consumer,2026,4,3.0,590.0,720.0,23.7,730.0
+Big eye scade,Consumer,2026,4,3.0,1210.0,1400.0,7.4,1300.0
+Cuttle fish,Consumer,2026,4,3.0,2120.0,2400.0,13.2,2400.0
+Frigate tuna,Consumer,2026,4,3.0,1240.0,1380.0,4.0,1190.0
+Herrings,Consumer,2026,4,3.0,1310.0,1320.0,2.9,1348.0
+Indian Mackerel,Consumer,2026,4,3.0,1303.33,1440.0,5.9,1380.0
+Indian Scad,Consumer,2026,4,3.0,1106.67,1118.0,1.3,1092.0
+Kawakawa,Consumer,2026,4,3.0,1355.0,1410.0,7.7,1250.0
+Marlins,Consumer,2026,4,3.0,3260.0,3270.0,1.0,3226.67
+Needle fish,Consumer,2026,4,3.0,1210.0,1664.0,20.7,1460.0
+Prawns,Consumer,2026,4,3.0,2487.5,2953.33,16.2,2890.0
+Rainbow Runner,Consumer,2026,4,3.0,1273.33,1490.0,10.3,1405.0
+Rock fish (L),Consumer,2026,4,3.0,2280.0,2390.0,5.0,2393.33
+Sail fish,Consumer,2026,4,3.0,2965.0,2882.0,3.4,2863.33
+Sardinella,Consumer,2026,4,3.0,715.0,1000.0,14.7,820.0
+Seer,Consumer,2026,4,3.0,3793.33,3740.0,4.7,3613.33
+Shark,Consumer,2026,4,3.0,2090.0,1926.67,12.4,1830.0
+Skipjack tuna,Consumer,2026,4,3.0,1980.0,1843.3,4.0,1900.0
+Threadfin Bream,Consumer,2026,4,3.0,1220.0,1843.335,19.7,1460.0
+Tilapia,Consumer,2026,4,3.0,1050.0,1050.0,4.8,1100.0
+Trevally (L),Consumer,2026,4,3.0,2510.0,2516.0,0.4,2520.0
+White Sardinella,Consumer,2026,4,3.0,495.0,660.0,5.1,520.0
+Yellowfin tuna,Consumer,2026,4,3.0,2620.0,2732.67,4.8,2746.67
+Barracuda(L),Wholesale,2026,4,3.0,1125.0,1383.33,1.5,1141.67
+Big eye scade,Wholesale,2026,4,3.0,937.5,1137.5,9.3,1025.0
+Frigate tuna,Wholesale,2026,4,3.0,1066.67,904.165,28.1,766.67
+Ginnati Paraw,Wholesale,2026,4,3.0,1100.0,1380.0,9.1,1200.0
+Herrings,Wholesale,2026,4,3.0,800.0,917.86,10.9,887.5
+Indian Anchovies,Wholesale,2026,4,3.0,1750.0,1760.0,19.5,1408.33
+Indian Mackerel,Wholesale,2026,4,3.0,1091.67,1133.33,0.8,1100.0
+Indian Scad,Wholesale,2026,4,3.0,980.0,912.5,7.1,1050.0
+Indian Scad,Wholesale,2026,4,3.0,650.0,675.0,38.5,900.0
+Katuwalla,Wholesale,2026,4,3.0,525.0,750.0,16.7,612.5
+Kawakawa,Wholesale,2026,4,3.0,1150.0,1175.0,27.5,833.33
+Marlins,Wholesale,2026,4,3.0,2120.0,2157.14,23.3,1625.0
+Needle fish,Wholesale,2026,4,3.0,906.25,1200.0,20.3,1090.0
+Pony fish,Wholesale,2026,4,3.0,216.67,350.0,55.8,337.5
+Prawns,Wholesale,2026,4,3.0,3.0,2079.17,1.3,2228.57
+Rainbow Runner,Wholesale,2026,4,3.0,737.5,750.0,23.4,910.0
+Red Bream(L),Wholesale,2026,4,3.0,1304.17,1600.0,18.1,1540.0
+Rock fish (L),Wholesale,2026,4,3.0,1242.86,1500.0,12.6,1400.0
+Rock fish (S),Wholesale,2026,4,3.0,900.0,1100.0,1.9,883.33
+Sail fish,Wholesale,2026,4,3.0,1807.14,1785.71,21.1,1425.0
+Sardinella,Wholesale,2026,4,3.0,431.25,629.17,21.7,337.5
+Sea Crabs(L),Wholesale,2026,4,3.0,1942.86,2250.0,26.5,2458.33
+Seer,Wholesale,2026,4,3.0,1800.0,2040.0,23.6,1375.0
+Shark,Wholesale,2026,4,3.0,1100.0,1116.67,0.0,1100.0
+Skipjack tuna,Wholesale,2026,4,3.0,1100.0,900.0,19.5,885.71
+Cuttle fish,Wholesale,2026,4,3.0,1716.67,1825.0,5.7,1814.29
+Threadfin Bream,Wholesale,2026,4,3.0,1075.0,1200.0,20.9,1300.0
+Tilapia,Wholesale,2026,4,3.0,500.0,750.0,25.0,625.0
+Trevally (L),Wholesale,2026,4,3.0,1307.14,1340.0,2.5,1275.0
+White Sardinella,Wholesale,2026,4,3.0,320.83,462.5,20.1,256.25
+Yellowfin tuna,Wholesale,2026,4,3.0,1616.67,1475.0,6.7,1508.33
+Anchovy,Consumer,2026,4,4.0,620.0,730.0,14.5,710.0
+Barracuda(L),Consumer,2026,4,4.0,2490.0,2326.67,7.6,2680.0
+Cuttle fish,Consumer,2026,4,4.0,2200.0,2400.0,4.5,2300.0
+Frigate tuna,Consumer,2026,4,4.0,1253.33,1190.0,0.5,1260.0
+Ginnati Paraw,Consumer,2026,4,4.0,1740.0,1505.0,1.9,1773.33
+Herrings,Consumer,2026,4,4.0,1360.0,1348.0,11.8,1520.0
+Indian Mackerel,Consumer,2026,4,4.0,1304.0,1380.0,12.7,1470.0
+Indian Scad,Consumer,2026,4,4.0,1196.67,1092.0,3.8,1242.5
+Kawakawa,Consumer,2026,4,4.0,1295.0,1250.0,6.6,1380.0
+Marlins,Consumer,2026,4,4.0,3240.0,3226.67,5.2,3070.0
+Needle fish,Consumer,2026,4,4.0,1260.0,1460.0,20.6,1520.0
+Prawns,Consumer,2026,4,4.0,2488.0,2890.0,8.0,2290.0
+Rainbow Runner,Consumer,2026,4,4.0,1310.0,1405.0,12.5,1473.33
+Red Bream(L),Consumer,2026,4,4.0,1820.0,1810.0,3.3,1880.0
+Rock fish (L),Consumer,2026,4,4.0,2320.0,2393.33,6.7,2476.0
+Sail fish,Consumer,2026,4,4.0,2906.0,2863.33,3.9,3020.0
+Sardinella,Consumer,2026,4,4.0,780.0,820.0,32.1,1030.0
+Sea Crabs(L),Consumer,2026,4,4.0,2580.0,3420.0,34.9,3480.0
+Seer,Consumer,2026,4,4.0,3805.0,3613.33,11.1,4226.67
+Shark,Consumer,2026,4,4.0,1980.0,1830.0,3.5,2049.6
+Skipjack tuna,Consumer,2026,4,4.0,1870.0,1900.0,3.6,1938.0
+Trevally (L),Consumer,2026,4,4.0,2580.0,2520.0,0.9,2556.0
+White Sardinella,Consumer,2026,4,4.0,510.0,520.0,51.0,770.0
+Yellowfin tuna,Consumer,2026,4,4.0,2688.33,2746.67,1.0,2716.0
+Barracuda(L),Wholesale,2026,4,4.0,1290.0,1141.67,11.1,1433.33
+Frigate tuna,Wholesale,2026,4,4.0,1000.0,766.67,28.8,712.5
+Ginnati Paraw,Wholesale,2026,4,4.0,1200.0,1200.0,9.4,1312.5
+Herrings,Wholesale,2026,4,4.0,1020.0,887.5,0.0,1020.0
+Indian Anchovies,Wholesale,2026,4,4.0,2150.0,1408.33,33.5,1430.0
+Indian Mackerel,Wholesale,2026,4,4.0,1108.33,1100.0,12.8,1250.0
+Indian Scad,Wholesale,2026,4,4.0,953.57,1050.0,2.6,978.57
+Indian Scad,Wholesale,2026,4,4.0,808.33,900.0,8.8,737.5
+Katuwalla,Wholesale,2026,4,4.0,608.33,612.5,15.1,700.0
+Kawakawa,Wholesale,2026,4,4.0,1125.0,833.33,6.7,1050.0
+Marlins,Wholesale,2026,4,4.0,2116.67,1625.0,16.6,1764.29
+Needle fish,Wholesale,2026,4,4.0,1010.0,1090.0,11.4,1125.0
+Pony fish,Wholesale,2026,4,4.0,325.0,337.5,7.7,300.0
+Prawns,Wholesale,2026,4,4.0,3.0,1832.14,23.7,2200.0
+Rainbow Runner,Wholesale,2026,4,4.0,885.0,910.0,4.9,841.67
+Red Bream(L),Wholesale,2026,4,4.0,1375.0,1540.0,6.7,1466.67
+Rock fish (L),Wholesale,2026,4,4.0,1283.33,1400.0,9.6,1407.14
+Rock fish (S),Wholesale,2026,4,4.0,1000.0,883.33,6.0,1060.0
+Sail fish,Wholesale,2026,4,4.0,1742.86,1425.0,12.3,1528.57
+Sardinella,Wholesale,2026,4,4.0,525.0,337.5,21.9,640.0
+Sea Crabs(L),Wholesale,2026,4,4.0,1816.67,2458.33,36.4,2478.57
+Seer,Wholesale,2026,4,4.0,2033.33,1375.0,5.2,2140.0
+Shark,Wholesale,2026,4,4.0,1066.67,1100.0,15.6,1233.33
+Skipjack tuna,Wholesale,2026,4,4.0,1046.43,885.71,13.3,907.14
+Cuttle fish,Wholesale,2026,4,4.0,1883.33,1814.29,3.7,1814.29
+Threadfin Bream,Wholesale,2026,4,4.0,1108.33,1300.0,11.9,1240.0
+Trevally (L),Wholesale,2026,4,4.0,1312.5,1275.0,3.1,1271.43
+White Sardinella,Wholesale,2026,4,4.0,418.75,256.25,24.2,520.0
+Yellowfin tuna,Wholesale,2026,4,4.0,1414.29,1508.33,2.0,1442.86
+Barracuda(L),Consumer,2026,5,1.0,2450.0,2680.0,11.0,2720.0
+Big eye scade,Consumer,2026,5,1.0,1230.0,1686.67,36.6,1680.0
+Cuttle fish,Consumer,2026,5,1.0,2133.33,2300.0,7.8,2300.0
+Frigate tuna,Consumer,2026,5,1.0,1210.0,1260.0,15.7,1400.0
+Ginnati Paraw,Consumer,2026,5,1.0,1706.67,1773.33,16.8,1993.33
+Herrings,Consumer,2026,5,1.0,1162.5,1520.0,33.0,1546.67
+Indian Mackerel,Consumer,2026,5,1.0,1273.33,1470.0,22.0,1553.33
+Indian Scad,Consumer,2026,5,1.0,976.0,1242.5,33.2,1300.0
+Kawakawa,Consumer,2026,5,1.0,1260.0,1380.0,22.2,1540.0
+Marlins,Consumer,2026,5,1.0,3190.0,3380.0,6.3,3390.0
+Needle fish,Consumer,2026,5,1.0,1260.0,1520.0,31.7,1660.0
+Prawns,Consumer,2026,5,1.0,2492.0,2290.0,1.1,2520.0
+Rainbow Runner,Consumer,2026,5,1.0,1026.67,1473.33,45.1,1490.0
+Red Bream(L),Consumer,2026,5,1.0,1760.0,1880.0,9.1,1920.0
+Rock fish (L),Consumer,2026,5,1.0,2290.0,2476.0,12.7,2580.0
+Sail fish,Consumer,2026,5,1.0,2846.67,3020.0,7.8,3070.0
+Sardinella,Consumer,2026,5,1.0,762.5,1030.0,37.7,1050.0
+Sea Crabs(L),Consumer,2026,5,1.0,2640.0,3480.0,28.0,3380.0
+Seer,Consumer,2026,5,1.0,3476.0,4226.67,22.4,4256.0
+Shark,Consumer,2026,5,1.0,1990.0,2049.6,14.6,2280.0
+Skipjack tuna,Consumer,2026,5,1.0,1596.0,1938.0,24.7,1990.0
+Threadfin Bream,Consumer,2026,5,1.0,1320.0,1843.335,29.5,1710.0
+Tilapia,Consumer,2026,5,1.0,1080.0,1150.0,4.9,1133.33
+Trevally (L),Consumer,2026,5,1.0,2493.33,2556.0,17.4,2926.67
+White Sardinella,Consumer,2026,5,1.0,505.0,770.0,54.5,780.0
+Yellowfin tuna,Consumer,2026,5,1.0,2685.0,2716.0,10.2,2960.0
+Barracuda(L),Wholesale,2026,5,1.0,1264.29,1433.33,10.7,1400.0
+Frigate tuna,Wholesale,2026,5,1.0,840.0,712.5,13.1,950.0
+Ginnati Paraw,Wholesale,2026,5,1.0,1216.67,1312.5,23.3,1500.0
+Herrings,Wholesale,2026,5,1.0,1008.33,1020.0,26.4,1275.0
+Indian Anchovies,Wholesale,2026,5,1.0,1541.67,1430.0,2.5,1580.0
+Indian Mackerel,Wholesale,2026,5,1.0,1000.0,1250.0,45.0,1450.0
+Indian Scad,Wholesale,2026,5,1.0,746.43,978.57,48.5,1108.33
+Indian Scad,Wholesale,2026,5,1.0,591.67,737.5,52.1,900.0
+Katuwalla,Wholesale,2026,5,1.0,600.0,700.0,1.4,608.33
+Kawakawa,Wholesale,2026,5,1.0,1066.67,1050.0,18.4,1262.5
+Marlins,Wholesale,2026,5,1.0,2042.86,1764.29,5.0,1941.67
+Needle fish,Wholesale,2026,5,1.0,1042.86,1125.0,21.5,1266.67
+Pony fish,Wholesale,2026,5,1.0,237.5,300.0,26.3,300.0
+Prawns,Wholesale,2026,5,1.0,3.0,1885.71,18.7,1678.57
+Rainbow Runner,Wholesale,2026,5,1.0,740.0,841.67,36.8,1012.5
+Red Bream(L),Wholesale,2026,5,1.0,1321.43,1466.67,30.5,1725.0
+Rock fish (S),Wholesale,2026,5,1.0,933.33,1060.0,44.6,1350.0
+Sail fish,Wholesale,2026,5,1.0,1733.33,1528.57,3.4,1675.0
+Sardinella,Wholesale,2026,5,1.0,503.57,640.0,48.9,750.0
+Sea Crabs(L),Wholesale,2026,5,1.0,1950.0,2478.57,12.8,2200.0
+Seer,Wholesale,2026,5,1.0,1842.86,2140.0,46.5,2700.0
+Shark,Wholesale,2026,5,1.0,1275.0,1233.33,9.8,1400.0
+Skipjack tuna,Wholesale,2026,5,1.0,992.86,907.14,25.1,1241.67
+Cuttle fish,Wholesale,2026,5,1.0,1800.0,1814.29,4.6,1883.33
+Threadfin Bream,Wholesale,2026,5,1.0,1183.33,1240.0,18.3,1400.0
+Tilapia,Wholesale,2026,5,1.0,650.0,750.0,30.8,850.0
+Trevally (L),Wholesale,2026,5,1.0,1242.86,1271.43,16.7,1450.0
+White Sardinella,Wholesale,2026,5,1.0,345.0,520.0,73.9,600.0
+Yellowfin tuna,Wholesale,2026,5,1.0,1571.43,1442.86,13.0,1775.0
+Barracuda(L),Consumer,2026,5,2.0,2470.0,2720.0,20.6,2980.0
+Cuttle fish,Consumer,2026,5,2.0,2180.0,2300.0,7.0,2333.33
+Frigate tuna,Consumer,2026,5,2.0,1160.0,1400.0,19.0,1380.0
+Ginnati Paraw,Consumer,2026,5,2.0,1700.0,1993.33,3.5,1760.0
+Indian Mackerel,Consumer,2026,5,2.0,1330.0,1553.33,20.7,1605.0
+Indian Scad,Consumer,2026,5,2.0,1076.67,1300.0,25.6,1352.0
+Kawakawa,Consumer,2026,5,2.0,1290.0,1540.0,15.5,1490.0
+Marlins,Consumer,2026,5,2.0,3250.0,3390.0,13.2,3680.0
+Needle fish,Consumer,2026,5,2.0,1280.0,1660.0,34.4,1720.0
+Prawns,Consumer,2026,5,2.0,2405.0,2520.0,2.3,2460.0
+Rainbow Runner,Consumer,2026,5,2.0,1095.0,1490.0,32.4,1450.0
+Rock fish (L),Consumer,2026,5,2.0,2350.0,2580.0,11.5,2620.0
+Sail fish,Consumer,2026,5,2.0,2925.0,3070.0,7.6,3146.67
+Sardinella,Consumer,2026,5,2.0,696.67,1050.0,49.0,1038.33
+Sea Crabs(L),Consumer,2026,5,2.0,2660.0,3380.0,25.6,3340.0
+Seer,Consumer,2026,5,2.0,3512.5,4256.0,8.4,3808.0
+Shark,Consumer,2026,5,2.0,1893.33,2280.0,24.6,2360.0
+Skipjack tuna,Consumer,2026,5,2.0,1733.33,1990.0,15.8,2006.67
+Trevally (L),Consumer,2026,5,2.0,2510.0,2926.67,16.7,2930.0
+White Sardinella,Consumer,2026,5,2.0,466.67,780.0,52.1,710.0
+Yellowfin tuna,Consumer,2026,5,2.0,2645.0,2960.0,8.0,2856.0
+Barracuda(L),Wholesale,2026,5,2.0,1266.67,1400.0,26.3,1600.0
+Big eye scade,Wholesale,2026,5,2.0,900.0,1350.0,51.9,1366.67
+Frigate tuna,Wholesale,2026,5,2.0,800.0,950.0,1.6,787.5
+Ginnati Paraw,Wholesale,2026,5,2.0,1200.0,1500.0,13.9,1033.33
+Herrings,Wholesale,2026,5,2.0,1150.0,1275.0,0.6,1157.14
+Indian Anchovies,Wholesale,2026,5,2.0,1516.67,1580.0,5.5,1600.0
+Indian Mackerel,Wholesale,2026,5,2.0,1075.0,1450.0,41.1,1516.67
+Indian Scad,Wholesale,2026,5,2.0,793.75,1108.33,43.1,1135.71
+Indian Scad,Wholesale,2026,5,2.0,650.0,900.0,37.2,891.67
+Katuwalla,Wholesale,2026,5,2.0,600.0,608.33,20.0,720.0
+Kawakawa,Wholesale,2026,5,2.0,1100.0,1262.5,1.5,1116.67
+Marlins,Wholesale,2026,5,2.0,2162.5,1941.67,0.9,2142.86
+Needle fish,Wholesale,2026,5,2.0,1075.0,1266.67,23.6,1328.57
+Pony fish,Wholesale,2026,5,2.0,350.0,300.0,9.5,316.67
+Prawns,Wholesale,2026,5,2.0,3.0,1750.0,10.0,1991.67
+Rainbow Runner,Wholesale,2026,5,2.0,787.5,1012.5,20.6,950.0
+Red Bream(L),Wholesale,2026,5,2.0,1362.5,1725.0,27.7,1740.0
+Rock fish (L),Wholesale,2026,5,2.0,1237.5,1650.0,23.9,1533.33
+Rock fish (S),Wholesale,2026,5,2.0,1025.0,1350.0,10.2,1130.0
+Sail fish,Wholesale,2026,5,2.0,1875.0,1675.0,0.2,1878.57
+Sardinella,Wholesale,2026,5,2.0,450.0,750.0,52.4,685.71
+Sea Crabs(L),Wholesale,2026,5,2.0,1950.0,2200.0,8.5,2116.67
+Seer,Wholesale,2026,5,2.0,1900.0,2700.0,13.2,2150.0
+Shark,Wholesale,2026,5,2.0,1000.0,1400.0,45.0,1450.0
+Skipjack tuna,Wholesale,2026,5,2.0,1125.0,1241.67,2.5,1153.57
+Cuttle fish,Wholesale,2026,5,2.0,1800.0,1883.33,2.8,1850.0
+Threadfin Bream,Wholesale,2026,5,2.0,1166.67,1400.0,28.6,1500.0
+Trevally (L),Wholesale,2026,5,2.0,1225.0,1450.0,25.5,1537.5
+White Sardinella,Wholesale,2026,5,2.0,293.75,600.0,87.2,550.0
+Yellowfin tuna,Wholesale,2026,5,2.0,1537.5,1775.0,7.9,1658.33
+Anchovy,Consumer,2026,5,3.0,750.0,720.0,6.7,800.0
+Barracuda(L),Consumer,2026,5,3.0,2510.0,2980.0,20.6,3026.67
+Cuttle fish,Consumer,2026,5,3.0,2190.0,2333.33,18.7,2600.0
+Frigate tuna,Consumer,2026,5,3.0,1293.33,1380.0,13.9,1473.33
+Ginnati Paraw,Consumer,2026,5,3.0,1693.33,1760.0,12.8,1910.0
+Herrings,Consumer,2026,5,3.0,1560.0,1405.0,0.6,1570.0
+Indian Mackerel,Consumer,2026,5,3.0,1410.0,1605.0,14.9,1620.0
+Indian Scad,Consumer,2026,5,3.0,1216.0,1352.0,18.1,1436.0
+Kawakawa,Consumer,2026,5,3.0,1380.0,1490.0,22.2,1686.67
+Marlins,Consumer,2026,5,3.0,3240.0,3680.0,13.9,3690.0
+Needle fish,Consumer,2026,5,3.0,1390.0,1720.0,30.2,1810.0
+Prawns,Consumer,2026,5,3.0,2437.5,2460.0,9.5,2206.67
+Rainbow Runner,Consumer,2026,5,3.0,1113.33,1450.0,29.3,1440.0
+Red Bream(L),Consumer,2026,5,3.0,1890.0,1890.0,7.1,2025.0
+Rock fish (L),Consumer,2026,5,3.0,2393.33,2620.0,11.1,2660.0
+Sail fish,Consumer,2026,5,3.0,2980.0,3146.67,7.2,3196.0
+Sardinella,Consumer,2026,5,3.0,733.33,1038.33,56.8,1150.0
+Sea Crabs(L),Consumer,2026,5,3.0,2715.0,3340.0,23.8,3360.0
+Seer,Consumer,2026,5,3.0,3832.5,3808.0,0.3,3845.0
+Shark,Consumer,2026,5,3.0,1920.0,2360.0,20.1,2306.67
+Skipjack tuna,Consumer,2026,5,3.0,1850.0,2006.67,13.5,2100.0
+Trevally (L),Consumer,2026,5,3.0,2876.67,2930.0,4.1,2995.0
+White Sardinella,Consumer,2026,5,3.0,470.0,710.0,101.6,947.5
+Yellowfin tuna,Consumer,2026,5,3.0,2826.67,2856.0,7.4,3036.0
+Barracuda(L),Wholesale,2026,5,3.0,1216.0,1600.0,29.5,1575.0
+Big eye scade,Wholesale,2026,5,3.0,1693.33,1366.67,10.8,1510.0
+Frigate tuna,Wholesale,2026,5,3.0,1380.0,787.5,28.7,983.33
+Ginnati Paraw,Wholesale,2026,5,3.0,1390.0,1033.33,10.8,1540.0
+Herrings,Wholesale,2026,5,3.0,1410.0,1157.14,10.5,1262.5
+Indian Anchovies,Wholesale,2026,5,3.0,2510.0,1600.0,19.3,2025.0
+Indian Scad,Wholesale,2026,5,3.0,1113.33,1135.71,7.1,1192.86
+Katuwalla,Wholesale,2026,5,3.0,750.0,720.0,22.2,916.67
+Kawakawa,Wholesale,2026,5,3.0,1890.0,1116.67,29.9,1325.0
+Marlins,Wholesale,2026,5,3.0,1293.33,2142.86,64.6,2128.57
+Needle fish,Wholesale,2026,5,3.0,2060.0,1328.57,28.8,1466.67
+Prawns,Wholesale,2026,5,3.0,3.0,3240.0,13.9,1792.86
+Rainbow Runner,Wholesale,2026,5,3.0,470.0,950.0,59.6,750.0
+Rock fish (L),Wholesale,2026,5,3.0,2393.33,1533.33,29.9,1678.57
+Rock fish (S),Wholesale,2026,5,3.0,2980.0,1130.0,58.9,1225.0
+Sail fish,Wholesale,2026,5,3.0,1850.0,1878.57,3.5,1914.29
+Sardinella,Wholesale,2026,5,3.0,1920.0,685.71,59.1,785.71
+Seer,Wholesale,2026,5,3.0,3832.5,2150.0,47.4,2016.67
+Shark,Wholesale,2026,5,3.0,1560.0,1450.0,-15.6,1316.67
+Skipjack tuna,Wholesale,2026,5,3.0,2826.67,1153.57,55.4,1260.71
+Threadfin Bream,Wholesale,2026,5,3.0,2190.0,1500.0,32.0,1490.0
+Trevally (L),Wholesale,2026,5,3.0,2876.67,1537.5,46.1,1550.0
+White Sardinella,Wholesale,2026,5,3.0,2715.0,550.0,70.5,800.0
+Yellowfin tuna,Wholesale,2026,5,3.0,733.33,1658.33,138.6,1750.0
+Barracuda(L),Consumer,2026,5,4.0,2633.33,3026.67,19.6,3150.0
+Big eye scade,Consumer,2026,5,4.0,1430.0,1750.0,21.2,1733.33
+Cuttle fish,Consumer,2026,5,4.0,2200.0,2600.0,22.3,2690.0
+Frigate tuna,Consumer,2026,5,4.0,1350.0,1473.33,22.2,1650.0
+Ginnati Paraw,Consumer,2026,5,4.0,1740.0,1910.0,16.1,2020.0
+Herrings,Consumer,2026,5,4.0,1660.0,1570.0,3.2,1606.67
+Indian Mackerel,Consumer,2026,5,4.0,1620.0,1620.0,5.3,1706.67
+Indian Scad,Consumer,2026,5,4.0,1272.0,1436.0,23.4,1569.17
+Kawakawa,Consumer,2026,5,4.0,1422.5,1686.67,20.2,1710.0
+Marlins,Consumer,2026,5,4.0,3493.33,3690.0,7.8,3766.67
+Prawns,Consumer,2026,5,4.0,2216.67,2206.67,9.2,2420.6
+Red Bream(L),Consumer,2026,5,4.0,1890.0,2025.0,0.5,1900.0
+Rock fish (L),Consumer,2026,5,4.0,2395.0,2660.0,19.0,2850.0
+Sail fish,Consumer,2026,5,4.0,3068.0,3196.0,5.9,3250.0
+Sardinella,Consumer,2026,5,4.0,815.0,1150.0,46.0,1190.0
+Sea Crabs(L),Consumer,2026,5,4.0,2720.0,3360.0,31.3,3570.0
+Seer,Consumer,2026,5,4.0,4245.0,3845.0,5.2,4025.0
+Shark,Consumer,2026,5,4.0,2060.0,2306.67,12.1,2310.0
+Skipjack tuna,Consumer,2026,5,4.0,2050.0,2100.0,4.9,2150.0
+Tilapia,Consumer,2026,5,4.0,1060.0,1075.0,5.7,1120.0
+Trevally (L),Consumer,2026,5,4.0,2995.0,2995.0,1.9,3052.0
+White Sardinella,Consumer,2026,5,4.0,505.0,947.5,82.2,920.0
+Yellowfin tuna,Consumer,2026,5,4.0,2895.0,3036.0,7.1,3100.0
+Barracuda(L),Wholesale,2026,5,4.0,1550.0,1575.0,6.5,1650.0
+Big eye scade,Wholesale,2026,5,4.0,1275.0,1510.0,19.2,1520.0
+Frigate tuna,Wholesale,2026,5,4.0,1110.0,983.33,3.6,1150.0
+Ginnati Paraw,Wholesale,2026,5,4.0,1375.0,1540.0,20.0,1650.0
+Herrings,Wholesale,2026,5,4.0,1250.0,1262.5,0.8,1260.0
+Indian Anchovies,Wholesale,2026,5,4.0,1800.0,2025.0,18.9,2140.0
+Indian Mackerel,Wholesale,2026,5,4.0,1400.0,1562.5,11.7,1564.29
+Indian Scad,Wholesale,2026,5,4.0,1117.86,1192.86,29.7,1450.0
+Indian Scad,Wholesale,2026,5,4.0,900.0,933.33,33.3,1200.0
+Katuwalla,Wholesale,2026,5,4.0,633.33,916.67,30.3,825.0
+Kawakawa,Wholesale,2026,5,4.0,1283.33,1325.0,7.5,1380.0
+Marlins,Wholesale,2026,5,4.0,2242.86,2128.57,6.1,2378.57
+Needle fish,Wholesale,2026,5,4.0,1150.0,1466.67,37.0,1575.0
+Pony fish,Wholesale,2026,5,4.0,250.0,428.57,68.0,420.0
+Prawns,Wholesale,2026,5,4.0,3.0,1766.67,4.2,1542.86
+Rainbow Runner,Wholesale,2026,5,4.0,875.0,750.0,12.9,987.5
+Red Bream(L),Wholesale,2026,5,4.0,1483.33,1820.0,12.2,1664.29
+Rock fish (L),Wholesale,2026,5,4.0,1450.0,1678.57,14.4,1658.33
+Rock fish (S),Wholesale,2026,5,4.0,1266.67,1225.0,1.1,1280.0
+Sail fish,Wholesale,2026,5,4.0,1942.86,1914.29,9.6,2128.57
+Sardinella,Wholesale,2026,5,4.0,532.14,785.71,59.1,846.43
+Sea Crabs(L),Wholesale,2026,5,4.0,1900.0,2250.0,39.5,2650.0
+Seer,Wholesale,2026,5,4.0,2637.5,2016.67,6.5,2466.67
+Shark,Wholesale,2026,5,4.0,1200.0,1316.67,16.7,1400.0
+Skipjack tuna,Wholesale,2026,5,4.0,1235.71,1260.71,3.2,1275.0
+Cuttle fish,Wholesale,2026,5,4.0,1741.67,2125.0,23.9,2157.14
+Threadfin Bream,Wholesale,2026,5,4.0,1000.0,1490.0,31.7,1316.67
+Tilapia,Wholesale,2026,5,4.0,600.0,750.0,36.9,821.43
+Trevally (L),Wholesale,2026,5,4.0,1492.86,1550.0,1.6,1516.67
+White Sardinella,Wholesale,2026,5,4.0,393.5,800.0,68.4,662.5
+Yellowfin tuna,Wholesale,2026,5,4.0,1783.33,1750.0,0.7,1771.43
+Anchovy,Consumer,2026,6,1.0,700.0,780.0,8.6,760.0
+Barracuda(L),Consumer,2026,6,1.0,2790.0,3150.0,14.3,3190.0
+Cuttle fish,Consumer,2026,6,1.0,2206.67,2690.0,22.8,2710.0
+Frigate tuna,Consumer,2026,6,1.0,1410.0,1650.0,17.7,1660.0
+Ginnati Paraw,Consumer,2026,6,1.0,1830.0,2020.0,11.5,2040.0
+Herrings,Consumer,2026,6,1.0,1720.0,1606.67,5.7,1622.0
+Indian Mackerel,Consumer,2026,6,1.0,1610.0,1706.67,10.2,1775.0
+Indian Scad,Consumer,2026,6,1.0,1350.0,1569.17,19.1,1608.0
+Kawakawa,Consumer,2026,6,1.0,1520.0,1710.0,7.9,1640.0
+Marlins,Consumer,2026,6,1.0,3540.0,3766.67,8.2,3830.0
+Needle fish,Consumer,2026,6,1.0,1420.0,1600.0,13.4,1610.0
+Prawns,Consumer,2026,6,1.0,2180.0,2420.6,12.2,2445.0
+Red Bream(L),Consumer,2026,6,1.0,1900.0,1900.0,5.8,2010.0
+Rock fish (L),Consumer,2026,6,1.0,2340.0,2850.0,12.0,2620.0
+Sail fish,Consumer,2026,6,1.0,3163.33,3250.0,4.2,3296.67
+Sardinella,Consumer,2026,6,1.0,980.0,1190.0,19.9,1175.0
+Sea Crabs(L),Consumer,2026,6,1.0,3060.0,3570.0,13.7,3480.0
+Seer,Consumer,2026,6,1.0,4200.0,4025.0,4.7,4396.0
+Shark,Consumer,2026,6,1.0,2040.0,2310.0,15.0,2345.0
+Skipjack tuna,Consumer,2026,6,1.0,2100.0,2150.0,16.2,2440.0
+Tilapia,Consumer,2026,6,1.0,1100.0,1120.0,10.9,980.0
+Trevally (L),Consumer,2026,6,1.0,2993.33,3052.0,2.6,3070.0
+White Sardinella,Consumer,2026,6,1.0,690.0,920.0,31.2,905.0
+Yellowfin tuna,Consumer,2026,6,1.0,2896.67,3100.0,11.0,3216.0
+Barracuda(L),Wholesale,2026,6,1.0,1590.0,1650.0,9.0,1733.33
+Big eye scade,Wholesale,2026,6,1.0,1083.33,1520.0,29.2,1400.0
+Frigate tuna,Wholesale,2026,6,1.0,1162.5,1150.0,6.5,1237.5
+Ginnati Paraw,Wholesale,2026,6,1.0,1487.5,1650.0,8.7,1616.67
+Indian Anchovies,Wholesale,2026,6,1.0,1750.0,2140.0,10.5,1933.33
+Indian Mackerel,Wholesale,2026,6,1.0,1340.0,1564.29,4.5,1400.0
+Indian Scad,Wholesale,2026,6,1.0,1242.86,1450.0,3.4,1200.0
+Indian Scad,Wholesale,2026,6,1.0,1066.67,1200.0,14.5,912.5
+Katuwalla,Wholesale,2026,6,1.0,700.0,825.0,28.6,900.0
+Kawakawa,Wholesale,2026,6,1.0,1300.0,1380.0,1.9,1275.0
+Marlins,Wholesale,2026,6,1.0,2342.86,2378.57,5.0,2460.0
+Needle fish,Wholesale,2026,6,1.0,1240.0,1575.0,13.6,1408.33
+Pony fish,Wholesale,2026,6,1.0,350.0,420.0,11.9,391.67
+Prawns,Wholesale,2026,6,1.0,3.0,1616.67,11.5,1607.14
+Rainbow Runner,Wholesale,2026,6,1.0,1040.0,987.5,1.4,1054.17
+Red Bream(L),Wholesale,2026,6,1.0,1537.5,1664.29,21.4,1866.67
+Rock fish (L),Wholesale,2026,6,1.0,1433.33,1658.33,12.8,1616.67
+Rock fish (S),Wholesale,2026,6,1.0,1125.0,1280.0,14.7,960.0
+Sail fish,Wholesale,2026,6,1.0,2071.43,2128.57,3.8,2150.0
+Sardinella,Wholesale,2026,6,1.0,720.71,846.43,16.2,837.5
+Sea Crabs(L),Wholesale,2026,6,1.0,2441.67,2650.0,4.4,2550.0
+Seer,Wholesale,2026,6,1.0,2550.0,2466.67,13.7,2900.0
+Shark,Wholesale,2026,6,1.0,1180.0,1400.0,27.1,1500.0
+Skipjack tuna,Wholesale,2026,6,1.0,1242.86,1275.0,2.6,1275.0
+Cuttle fish,Wholesale,2026,6,1.0,1892.86,2157.14,10.9,2100.0
+Threadfin Bream,Wholesale,2026,6,1.0,1500.0,1316.67,10.7,1340.0
+Tilapia,Wholesale,2026,6,1.0,600.0,821.43,16.7,700.0
+Trevally (L),Wholesale,2026,6,1.0,1383.33,1516.67,18.7,1641.67
+White Sardinella,Wholesale,2026,6,1.0,541.67,662.5,15.4,625.0
+Yellowfin tuna,Wholesale,2026,6,1.0,1571.43,1771.43,15.8,1820.0
+Barracuda(L),Consumer,2026,6,2.0,2893.33,3190.0,13.8,3293.33
+Cuttle fish,Consumer,2026,6,2.0,2100.0,2710.0,27.6,2680.0
+Frigate tuna,Consumer,2026,6,2.0,1360.0,1660.0,24.3,1690.0
+Ginnati Paraw,Consumer,2026,6,2.0,1840.0,2040.0,11.4,2050.0
+Indian Mackerel,Consumer,2026,6,2.0,1550.0,1775.0,23.9,1920.0
+Indian Scad,Consumer,2026,6,2.0,1252.5,1608.0,30.1,1630.0
+Kawakawa,Consumer,2026,6,2.0,1450.0,1640.0,21.4,1760.0
+Marlins,Consumer,2026,6,2.0,3690.0,3830.0,4.1,3840.0
+Needle fish,Consumer,2026,6,2.0,1420.0,1610.0,20.4,1710.0
+Prawns,Consumer,2026,6,2.0,2055.0,2445.0,12.9,2320.0
+Red Bream(L),Consumer,2026,6,2.0,1850.0,2010.0,9.2,2020.0
+Rock fish (L),Consumer,2026,6,2.0,2305.0,2620.0,24.9,2880.0
+Sail fish,Consumer,2026,6,2.0,3270.0,3296.67,6.1,3470.0
+Sardinella,Consumer,2026,6,2.0,1070.0,1175.0,4.3,1116.0
+Sea Crabs(L),Consumer,2026,6,2.0,3100.0,3480.0,11.0,3440.0
+Seer,Consumer,2026,6,2.0,4345.0,4396.0,3.0,4476.0
+Shark,Consumer,2026,6,2.0,2095.0,2345.0,12.2,2350.0
+Skipjack tuna,Consumer,2026,6,2.0,2025.0,2440.0,21.0,2450.0
+Threadfin Bream,Consumer,2026,6,2.0,1800.0,2083.33,22.2,2200.0
+Tilapia,Consumer,2026,6,2.0,980.0,980.0,8.2,1060.0
+Trevally (L),Consumer,2026,6,2.0,3045.0,3070.0,1.6,3093.33
+White Sardinella,Consumer,2026,6,2.0,822.5,905.0,0.3,820.0
+Yellowfin tuna,Consumer,2026,6,2.0,2756.0,3216.0,16.8,3220.0
+Barracuda(L),Wholesale,2026,6,2.0,1580.0,1733.33,4.4,1650.0
+Big eye scade,Wholesale,2026,6,2.0,1000.0,1400.0,43.0,1430.0
+Frigate tuna,Wholesale,2026,6,2.0,975.0,1237.5,38.5,1350.0
+Ginnati Paraw,Wholesale,2026,6,2.0,1400.0,1616.67,13.8,1592.86
+Herrings,Wholesale,2026,6,2.0,1150.0,1190.0,3.7,1192.86
+Indian Anchovies,Wholesale,2026,6,2.0,1633.33,1933.33,42.3,2325.0
+Indian Mackerel,Wholesale,2026,6,2.0,1283.33,1400.0,23.0,1578.57
+Indian Scad,Wholesale,2026,6,2.0,883.33,1200.0,50.4,1328.57
+Indian Scad,Wholesale,2026,6,2.0,720.0,912.5,50.0,1080.0
+Katuwalla,Wholesale,2026,6,2.0,600.0,900.0,33.3,800.0
+Kawakawa,Wholesale,2026,6,2.0,1200.0,1275.0,18.8,1425.0
+Marlins,Wholesale,2026,6,2.0,2483.33,2460.0,1.6,2442.86
+Needle fish,Wholesale,2026,6,2.0,1216.67,1408.33,24.5,1514.29
+Pony fish,Wholesale,2026,6,2.0,300.0,391.67,16.7,350.0
+Prawns,Wholesale,2026,6,2.0,3.0,1608.33,13.5,1791.67
+Rainbow Runner,Wholesale,2026,6,2.0,883.33,1054.17,18.1,1042.86
+Red Bream(L),Wholesale,2026,6,2.0,1525.0,1866.67,22.6,1870.0
+Rock fish (L),Wholesale,2026,6,2.0,1350.0,1616.67,31.7,1778.57
+Rock fish (S),Wholesale,2026,6,2.0,1040.0,960.0,25.0,1300.0
+Sail fish,Wholesale,2026,6,2.0,2100.0,2150.0,7.1,2250.0
+Sardinella,Wholesale,2026,6,2.0,840.0,837.5,3.1,814.29
+Sea Crabs(L),Wholesale,2026,6,2.0,2440.0,2550.0,3.3,2521.43
+Seer,Wholesale,2026,6,2.0,2725.0,2900.0,0.9,2700.0
+Shark,Wholesale,2026,6,2.0,1112.5,1500.0,33.3,1483.33
+Skipjack tuna,Wholesale,2026,6,2.0,1025.0,1275.0,33.1,1364.29
+Cuttle fish,Wholesale,2026,6,2.0,1766.67,2100.0,14.8,2028.57
+Threadfin Bream,Wholesale,2026,6,2.0,1500.0,1340.0,24.4,1866.67
+Tilapia,Wholesale,2026,6,2.0,450.0,700.0,61.1,725.0
+Trevally (L),Wholesale,2026,6,2.0,1600.0,1641.67,8.3,1733.33
+White Sardinella,Wholesale,2026,6,2.0,650.0,625.0,23.1,500.0
+Yellowfin tuna,Wholesale,2026,6,2.0,1433.33,1820.0,30.1,1864.29
+Barracuda(L),Consumer,2026,7,1.0,2740.0,3380.0,17.5,3220.0
+Big eye scade,Consumer,2026,7,1.0,1560.0,1800.0,15.4,1800.0
+Cuttle fish,Consumer,2026,7,1.0,2180.0,2680.0,19.3,2600.0
+Frigate tuna,Consumer,2026,7,1.0,1270.0,1660.0,32.3,1680.0
+Ginnati Paraw,Consumer,2026,7,1.0,1666.67,2040.0,26.0,2100.0
+Herrings,Consumer,2026,7,1.0,1520.0,1596.0,11.8,1700.0
+Indian Mackerel,Consumer,2026,7,1.0,1540.0,1740.0,18.8,1830.0
+Indian Scad,Consumer,2026,7,1.0,998.33,1373.33,47.2,1470.0
+Kawakawa,Consumer,2026,7,1.0,1310.0,1680.0,35.9,1780.0
+Marlins,Consumer,2026,7,1.0,3666.66,3849.0,12.1,4110.0
+Needle fish,Consumer,2026,7,1.0,1520.0,1600.0,13.2,1720.0
+Prawns,Consumer,2026,7,1.0,1940.0,2293.33,20.3,2333.33
+Rainbow Runner,Consumer,2026,7,1.0,1085.0,1540.0,53.0,1660.0
+Red Bream(L),Consumer,2026,7,1.0,1890.0,2000.0,9.0,2060.0
+Rock fish (L),Consumer,2026,7,1.0,2520.0,2926.0,14.7,2890.0
+Sail fish,Consumer,2026,7,1.0,3163.33,3370.0,12.9,3570.0
+Sardinella,Consumer,2026,7,1.0,920.0,1073.33,33.9,1232.0
+Sea Crabs(L),Consumer,2026,7,1.0,3290.0,3580.0,8.8,3580.0
+Seer,Consumer,2026,7,1.0,4845.0,4495.0,7.3,4490.0
+Shark,Consumer,2026,7,1.0,2050.0,2380.0,21.0,2480.0
+Skipjack tuna,Consumer,2026,7,1.0,1973.33,2100.0,19.3,2353.33
+Threadfin Bream,Consumer,2026,7,1.0,1540.0,2200.0,42.9,2200.0
+Tilapia,Consumer,2026,7,1.0,933.33,1200.0,30.7,1220.0
+Trevally (L),Consumer,2026,7,1.0,2616.0,3120.0,23.9,3240.0
+White Sardinella,Consumer,2026,7,1.0,633.33,780.0,46.8,930.0
+Yellowfin tuna,Consumer,2026,7,1.0,2640.0,3144.0,23.5,3260.0
+Barracuda(L),Wholesale,2026,7,1.0,1341.67,1675.0,34.2,1800.0
+Big eye scade,Wholesale,2026,7,1.0,1100.0,1350.0,30.3,1433.33
+Frigate tuna,Wholesale,2026,7,1.0,880.0,1100.0,33.5,1175.0
+Ginnati Paraw,Wholesale,2026,7,1.0,1330.0,1580.0,29.7,1725.0
+Herrings,Wholesale,2026,7,1.0,964.29,1166.67,37.4,1325.0
+Indian Anchovies,Wholesale,2026,7,1.0,1380.0,1960.0,44.2,1990.0
+Indian Mackerel,Wholesale,2026,7,1.0,1212.5,1400.0,28.4,1557.14
+Indian Scad,Wholesale,2026,7,1.0,725.0,1100.0,51.7,1100.0
+Indian Scad,Wholesale,2026,7,1.0,610.0,953.57,41.0,860.0
+Katuwalla,Wholesale,2026,7,1.0,600.0,783.33,33.3,800.0
+Kawakawa,Wholesale,2026,7,1.0,1016.67,1300.0,30.8,1330.0
+Marlins,Wholesale,2026,7,1.0,2366.67,2400.0,19.6,2830.0
+Needle fish,Wholesale,2026,7,1.0,1150.0,1242.86,29.7,1491.67
+Pony fish,Wholesale,2026,7,1.0,266.67,287.5,59.4,425.0
+Prawns,Wholesale,2026,7,1.0,3.0,1475.0,7.3,1507.14
+Rainbow Runner,Wholesale,2026,7,1.0,841.67,1000.0,32.7,1116.67
+Red Bream(L),Wholesale,2026,7,1.0,1485.71,1720.0,24.5,1850.0
+Rock fish (L),Wholesale,2026,7,1.0,1428.57,1800.0,14.9,1641.67
+Rock fish (S),Wholesale,2026,7,1.0,1120.0,1300.0,17.2,1312.5
+Sail fish,Wholesale,2026,7,1.0,1975.0,2257.14,20.3,2375.0
+Sardinella,Wholesale,2026,7,1.0,600.0,717.86,58.9,953.57
+Sea Crabs(L),Wholesale,2026,7,1.0,2666.67,2450.0,6.3,2833.33
+Seer,Wholesale,2026,7,1.0,3280.0,2714.29,18.4,2675.0
+Shark,Wholesale,2026,7,1.0,1175.0,1550.0,30.5,1533.33
+Skipjack tuna,Wholesale,2026,7,1.0,939.29,1114.29,23.5,1160.0
+Cuttle fish,Wholesale,2026,7,1.0,1775.0,2071.43,9.4,1941.67
+Threadfin Bream,Wholesale,2026,7,1.0,1350.0,1420.0,14.8,1150.0
+Tilapia,Wholesale,2026,7,1.0,625.0,775.0,32.0,825.0
+Trevally (L),Wholesale,2026,7,1.0,1314.29,1416.67,23.0,1616.67
+White Sardinella,Wholesale,2026,7,1.0,466.0,468.75,68.1,783.33
+Yellowfin tuna,Wholesale,2026,7,1.0,1335.71,1650.0,33.7,1785.71
+Barracuda(L),Consumer,2026,7,3.0,2640.0,2640.0,1.2,2607.2
+Big eye scade,Consumer,2026,7,3.0,1490.0,1690.0,14.1,1700.0
+Cuttle fish,Consumer,2026,7,3.0,2150.0,2600.0,20.9,2600.0
+Frigate tuna,Consumer,2026,7,3.0,1240.0,1605.0,23.0,1524.75
+Ginnati Paraw,Consumer,2026,7,3.0,1545.0,1907.0,30.4,2015.07
+Herrings,Consumer,2026,7,3.0,1153.33,1453.33,31.1,1512.0
+Indian Mackerel,Consumer,2026,7,3.0,1540.0,1693.0,2.6,1580.0
+Indian Scad,Consumer,2026,7,3.0,1043.33,1216.0,11.0,1158.33
+Kawakawa,Consumer,2026,7,3.0,1290.0,1625.0,24.2,1602.5
+Marlins,Consumer,2026,7,3.0,3670.0,4193.0,16.0,4258.8
+Needle fish,Consumer,2026,7,3.0,1420.0,1600.0,12.9,1603.33
+Prawns,Consumer,2026,7,3.0,2025.0,2263.33,14.6,2320.0
+Rainbow Runner,Consumer,2026,7,3.0,1080.0,1590.0,71.3,1850.0
+Red Bream(L),Consumer,2026,7,3.0,1930.0,1890.0,0.4,1922.26
+Rock fish (L),Consumer,2026,7,3.0,2540.0,2893.0,17.3,2980.0
+Sail fish,Consumer,2026,7,3.0,3055.0,3656.0,18.5,3620.0
+Sardinella,Consumer,2026,7,3.0,860.0,1050.0,26.7,1090.0
+Sea Crabs(L),Consumer,2026,7,3.0,2820.0,3140.0,24.8,3519.92
+Seer,Consumer,2026,7,3.0,3900.0,4396.0,11.2,4336.0
+Shark,Consumer,2026,7,3.0,2050.0,2327.0,18.0,2420.0
+Skipjack tuna,Consumer,2026,7,3.0,1780.0,2200.0,30.6,2324.0
+Threadfin Bream,Consumer,2026,7,3.0,1480.0,2200.0,52.0,2250.0
+Trevally (L),Consumer,2026,7,3.0,2750.0,3240.0,11.6,3070.0
+White Sardinella,Consumer,2026,7,3.0,530.0,780.0,62.3,860.0
+Yellowfin tuna,Consumer,2026,7,3.0,2741.67,2996.67,18.8,3256.0
+Barracuda(L),Wholesale,2026,7,3.0,1400.0,1640.0,14.3,1600.0
+Big eye scade,Wholesale,2026,7,3.0,1000.0,1412.5,30.0,1300.0
+Frigate tuna,Wholesale,2026,7,3.0,825.0,1100.0,13.1,933.33
+Ginnati Paraw,Wholesale,2026,7,3.0,1333.33,1683.33,31.3,1750.0
+Herrings,Wholesale,2026,7,3.0,860.71,1085.71,30.7,1125.0
+Indian Anchovies,Wholesale,2026,7,3.0,1316.67,1762.5,12.4,1480.0
+Indian Mackerel,Wholesale,2026,7,3.0,1260.0,1371.43,-9.3,1142.86
+Indian Scad,Wholesale,2026,7,3.0,710.71,875.0,16.6,828.57
+Indian Scad,Wholesale,2026,7,3.0,588.57,692.86,10.4,650.0
+Katuwalla,Wholesale,2026,7,3.0,583.33,683.33,52.6,890.0
+Kawakawa,Wholesale,2026,7,3.0,966.67,1270.0,26.4,1221.43
+Marlins,Wholesale,2026,7,3.0,2264.29,2850.0,21.1,2742.86
+Needle fish,Wholesale,2026,7,3.0,1116.67,1328.57,15.8,1292.86
+Pony fish,Wholesale,2026,7,3.0,287.5,450.0,21.7,350.0
+Prawns,Wholesale,2026,7,3.0,3.0,1635.71,2.3,1542.86
+Rainbow Runner,Wholesale,2026,7,3.0,760.71,985.71,44.6,1100.0
+Red Bream(L),Wholesale,2026,7,3.0,1442.86,1750.0,15.5,1666.67
+Rock fish (L),Wholesale,2026,7,3.0,1414.29,1700.0,17.2,1657.14
+Rock fish (S),Wholesale,2026,7,3.0,1114.29,1375.0,7.3,1033.33
+Sail fish,Wholesale,2026,7,3.0,1785.71,2385.71,28.4,2292.86
+Sardinella,Wholesale,2026,7,3.0,520.0,604.17,55.2,807.14
+Sea Crabs(L),Wholesale,2026,7,3.0,2071.43,2133.33,12.8,2335.71
+Seer,Wholesale,2026,7,3.0,1671.43,2428.57,27.6,2133.33
+Shark,Wholesale,2026,7,3.0,1200.0,1383.33,21.7,1460.0
+Skipjack tuna,Wholesale,2026,7,3.0,829.17,1017.86,23.2,1021.43
+Cuttle fish,Wholesale,2026,7,3.0,1735.71,1950.0,7.5,1866.67
+Threadfin Bream,Wholesale,2026,7,3.0,1058.33,1228.57,16.5,1233.33
+Tilapia,Wholesale,2026,7,3.0,650.0,675.0,1.0,643.75
+Trevally (L),Wholesale,2026,7,3.0,1300.0,1600.0,16.9,1520.0
+White Sardinella,Wholesale,2026,7,3.0,364.29,487.5,126.5,825.0
+Yellowfin tuna,Wholesale,2026,7,3.0,1250.0,1583.33,34.9,1685.71
+Barracuda(L),Consumer,2026,7,4.0,2726.67,2607.2,3.5,2630.0
+Cuttle fish,Consumer,2026,7,4.0,2166.67,2600.0,17.2,2538.67
+Frigate tuna,Consumer,2026,7,4.0,1310.0,1524.75,9.5,1434.98
+Ginnati Paraw,Consumer,2026,7,4.0,1680.0,2015.07,4.3,1607.0
+Herrings,Consumer,2026,7,4.0,1092.0,1512.0,9.9,1200.0
+Indian Mackerel,Consumer,2026,7,4.0,1573.33,1580.0,1.7,1600.0
+Indian Scad,Consumer,2026,7,4.0,1048.0,1158.33,4.0,1090.0
+Kawakawa,Consumer,2026,7,4.0,1390.0,1602.5,14.2,1587.0
+Marlins,Consumer,2026,7,4.0,3590.0,4258.8,19.8,4300.8
+Needle fish,Consumer,2026,7,4.0,1530.0,1603.33,0.4,1536.4
+Prawns,Consumer,2026,7,4.0,2075.0,2320.0,15.2,2390.0
+Rainbow Runner,Consumer,2026,7,4.0,1195.0,1850.0,10.5,1320.0
+Red Bream(L),Consumer,2026,7,4.0,2020.0,1922.26,3.0,1958.4
+Rock fish (L),Consumer,2026,7,4.0,2480.0,2980.0,13.7,2820.0
+Sail fish,Consumer,2026,7,4.0,3063.33,3620.0,19.8,3670.0
+Sardinella,Consumer,2026,7,4.0,805.0,1090.0,15.5,930.0
+Sea Crabs(L),Consumer,2026,7,4.0,3190.0,3519.92,12.2,3580.0
+Seer,Consumer,2026,7,4.0,3695.0,4336.0,18.5,4380.0
+Shark,Consumer,2026,7,4.0,1856.0,2420.0,29.3,2400.0
+Skipjack tuna,Consumer,2026,7,4.0,1820.0,2324.0,31.0,2385.0
+Threadfin Bream,Consumer,2026,7,4.0,1426.67,2250.0,59.2,2271.0
+Tilapia,Consumer,2026,7,4.0,980.0,1100.0,12.2,1100.0
+Trevally (L),Consumer,2026,7,4.0,2790.0,3070.0,14.7,3200.0
+White Sardinella,Consumer,2026,7,4.0,540.0,860.0,27.4,688.0
+Yellowfin tuna,Consumer,2026,7,4.0,2736.0,3256.0,19.2,3260.0
+Barracuda(L),Wholesale,2026,7,4.0,1400.0,1600.0,4.3,1460.0
+Big eye scade,Wholesale,2026,7,4.0,1060.0,1300.0,0.0,0.0
+Frigate tuna,Wholesale,2026,7,4.0,1125.0,933.33,28.9,800.0
+Ginnati Paraw,Wholesale,2026,7,4.0,1500.0,1750.0,15.0,1275.0
+Herrings,Wholesale,2026,7,4.0,816.67,1125.0,21.4,991.67
+Indian Anchovies,Wholesale,2026,7,4.0,1485.71,1480.0,1.3,1466.67
+Indian Mackerel,Wholesale,2026,7,4.0,1225.0,1142.86,-5.5,1157.14
+Indian Scad,Wholesale,2026,7,4.0,717.86,828.57,1.0,710.71
+Indian Scad,Wholesale,2026,7,4.0,631.25,650.0,5.6,595.83
+Katuwalla,Wholesale,2026,7,4.0,616.67,890.0,0.0,0.0
+Kawakawa,Wholesale,2026,7,4.0,1091.67,1221.43,6.1,1158.33
+Marlins,Wholesale,2026,7,4.0,2000.0,2742.86,26.4,2528.57
+Needle fish,Wholesale,2026,7,4.0,1200.0,1292.86,3.0,1164.29
+Pony fish,Wholesale,2026,7,4.0,350.0,350.0,7.1,375.0
+Prawns,Wholesale,2026,7,4.0,3.0,1678.58,6.8,1578.57
+Rainbow Runner,Wholesale,2026,7,4.0,764.29,1100.0,15.1,880.0
+Red Bream(L),Wholesale,2026,7,4.0,1650.0,1666.67,8.1,1516.67
+Rock fish (L),Wholesale,2026,7,4.0,1387.5,1657.14,7.4,1490.0
+Rock fish (S),Wholesale,2026,7,4.0,1125.0,1033.33,10.2,1240.0
+Sail fish,Wholesale,2026,7,4.0,1750.0,2292.86,25.7,2200.0
+Sardinella,Wholesale,2026,7,4.0,475.0,807.14,36.1,646.43
+Sea Crabs(L),Wholesale,2026,7,4.0,2566.67,2335.71,3.6,2475.0
+Seer,Wholesale,2026,7,4.0,1610.0,2133.33,45.3,2340.0
+Shark,Wholesale,2026,7,4.0,1100.0,1460.0,36.4,1500.0
+Skipjack tuna,Wholesale,2026,7,4.0,864.29,1021.43,19.8,1035.71
+Cuttle fish,Wholesale,2026,7,4.0,1770.0,1866.67,27.1,2250.0
+Threadfin Bream,Wholesale,2026,7,4.0,1075.0,1233.33,8.8,1170.0
+Tilapia,Wholesale,2026,7,4.0,650.0,643.75,6.6,692.86
+Trevally (L),Wholesale,2026,7,4.0,1307.14,1520.0,16.0,1516.67
+White Sardinella,Wholesale,2026,7,4.0,392.86,825.0,30.5,512.5
+Yellowfin tuna,Wholesale,2026,7,4.0,1483.33,1685.71,8.8,1614.29
+Barracuda(L),Consumer,2026,7,2.0,2760.0,3220.0,4.3,2640.0
+Big eye scade,Consumer,2026,7,2.0,1485.0,1800.0,13.8,1690.0
+Cuttle fish,Consumer,2026,7,2.0,2160.0,2600.0,20.4,2600.0
+Frigate tuna,Consumer,2026,7,2.0,1220.0,1680.0,31.6,1605.0
+Ginnati Paraw,Consumer,2026,7,2.0,1503.33,2100.0,26.9,1907.0
+Herrings,Consumer,2026,7,2.0,1304.0,1700.0,11.5,1453.33
+Indian Mackerel,Consumer,2026,7,2.0,1526.67,1830.0,10.9,1693.0
+Indian Scad,Consumer,2026,7,2.0,936.0,1470.0,29.9,1216.0
+Kawakawa,Consumer,2026,7,2.0,1280.0,1780.0,27.0,1625.0
+Marlins,Consumer,2026,7,2.0,3496.67,4110.0,19.9,4193.0
+Needle fish,Consumer,2026,7,2.0,1526.67,1720.0,4.8,1600.0
+Prawns,Consumer,2026,7,2.0,1980.0,2333.33,14.3,2263.33
+Rainbow Runner,Consumer,2026,7,2.0,1052.0,1660.0,51.1,1590.0
+Red Bream(L),Consumer,2026,7,2.0,1860.0,2060.0,1.6,1890.0
+Rock fish (L),Consumer,2026,7,2.0,2440.0,2890.0,18.6,2893.0
+Sail fish,Consumer,2026,7,2.0,3032.0,3570.0,20.6,3656.0
+Sardinella,Consumer,2026,7,2.0,920.0,1232.0,14.1,1050.0
+Sea Crabs(L),Consumer,2026,7,2.0,3190.0,3580.0,1.6,3140.0
+Seer,Consumer,2026,7,2.0,4120.0,4490.0,6.7,4396.0
+Shark,Consumer,2026,7,2.0,2035.0,2480.0,14.3,2327.0
+Skipjack tuna,Consumer,2026,7,2.0,1925.0,2353.33,14.3,2200.0
+Threadfin Bream,Consumer,2026,7,2.0,1317.5,2200.0,67.0,2200.0
+Trevally (L),Consumer,2026,7,2.0,2536.0,3240.0,27.8,3240.0
+White Sardinella,Consumer,2026,7,2.0,610.0,930.0,27.9,780.0
+Yellowfin tuna,Consumer,2026,7,2.0,2646.67,3260.0,13.2,2996.67
+Barracuda(L),Wholesale,2026,7,2.0,1450.0,1800.0,13.1,1640.0
+Big eye scade,Wholesale,2026,7,2.0,1000.0,1433.33,41.3,1412.5
+Ginnati Paraw,Wholesale,2026,7,2.0,1283.33,1725.0,31.2,1683.33
+Herrings,Wholesale,2026,7,2.0,930.0,1325.0,16.7,1085.71
+Indian Anchovies,Wholesale,2026,7,2.0,1275.0,1990.0,38.2,1762.5
+Indian Mackerel,Wholesale,2026,7,2.0,1200.0,1557.14,14.3,1371.43
+Indian Scad,Wholesale,2026,7,2.0,625.0,1100.0,40.0,875.0
+Indian Scad,Wholesale,2026,7,2.0,527.5,860.0,31.3,692.86
+Katuwalla,Wholesale,2026,7,2.0,550.0,800.0,24.2,683.33
+Kawakawa,Wholesale,2026,7,2.0,900.0,1330.0,41.1,1270.0
+Marlins,Wholesale,2026,7,2.0,2150.0,2830.0,32.6,2850.0
+Needle fish,Wholesale,2026,7,2.0,1191.67,1491.67,11.5,1328.57
+Pony fish,Wholesale,2026,7,2.0,316.67,425.0,42.1,450.0
+Prawns,Wholesale,2026,7,2.0,3.0,1620.0,4.6,1617.86
+Rainbow Runner,Wholesale,2026,7,2.0,695.83,1116.67,41.7,985.71
+Red Bream(L),Wholesale,2026,7,2.0,1337.5,1850.0,30.8,1750.0
+Rock fish (L),Wholesale,2026,7,2.0,1400.0,1641.67,21.4,1700.0
+Rock fish (S),Wholesale,2026,7,2.0,950.0,1312.5,44.7,1375.0
+Sail fish,Wholesale,2026,7,2.0,1783.33,2375.0,33.8,2385.71
+Sardinella,Wholesale,2026,7,2.0,608.33,953.57,0.7,604.17
+Sea Crabs(L),Wholesale,2026,7,2.0,2516.67,2833.33,15.2,2133.33
+Seer,Wholesale,2026,7,2.0,2075.0,2675.0,17.0,2428.57
+Shark,Wholesale,2026,7,2.0,1087.5,1533.33,27.2,1383.33
+Skipjack tuna,Wholesale,2026,7,2.0,875.0,1160.0,16.3,1017.86
+Cuttle fish,Wholesale,2026,7,2.0,1766.67,1941.67,10.4,1950.0
+Threadfin Bream,Wholesale,2026,7,2.0,1191.67,1150.0,3.1,1228.57
+Tilapia,Wholesale,2026,7,2.0,475.0,650.0,42.1,675.0
+Trevally (L),Wholesale,2026,7,2.0,1183.33,1616.67,35.2,1600.0
+White Sardinella,Wholesale,2026,7,2.0,458.33,783.33,6.4,487.5
+Yellowfin tuna,Wholesale,2026,7,2.0,1208.33,1785.71,31.0,1583.33

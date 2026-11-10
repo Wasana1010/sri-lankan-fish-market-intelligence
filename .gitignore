@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.swp

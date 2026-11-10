@@ -1,0 +1,798 @@
+Year,Month,Week,Fish_Species,Same_Week_Last_Year_Price,Previous_Week_Price,Current_Price
+2026,Feb,1,Seer (Ni-L),,,2500.0
+2026,Feb,1,Trevally (L),,,1325.0
+2026,Feb,1,Rock fish (L),,,1383.3333333333333
+2026,Feb,1,Rock fish (S),,,1183.3333333333333
+2026,Feb,1,Sail fish,,,1900.0
+2026,Feb,1,Skipjack tuna,,,916.6666666666666
+2026,Feb,1,Yellowfin tuna,,,1341.6666666666667
+2026,Feb,1,Sardinella,,,420.0
+2026,Feb,1,Sharks,,,1300.0
+2026,Feb,1,Herrings,,,1140.0
+2026,Feb,1,Indian Mackerel,,,1150.0
+2026,Feb,1,Pony fish,,,300.0
+2026,Feb,1,Katuwalla,,,590.0
+2026,Feb,1,Anchovy,,,495.0
+2026,Feb,1,"Prawns (M) 3""",,,2141.6666666666665
+2026,Feb,1,Marlins,,,2216.6666666666665
+2026,Feb,1,Frigate tuna(L),,,1000.0
+2026,Feb,1,Kawakawa,,,1200.0
+2026,Feb,1,Red Bream(L),,,1458.3333333333333
+2026,Feb,1,Big eye scade,,,900.0
+2026,Feb,1,Ginnati Paraw,,,1366.6666666666667
+2026,Feb,1,Needle fish,,,1200.0
+2026,Feb,1,Indian Anchovies,,,2041.6666666666667
+2026,Feb,1,Barracuda(L),,,1320.0
+2026,Feb,1,Indian Scad(L),,,929.1666666666666
+2026,Feb,1,Indian Scad(S),,,840.0
+2026,Feb,1,Rainbow Runner,,,833.3333333333334
+2026,Feb,1,Threadfin  Bream,,,1350.0
+2026,Feb,1,White Sardinella,,,308.3333333333333
+2026,Feb,1,Squids /Cuttle fish(Peeli),,,1700.0
+2026,Feb,1,Sea Crabs(L),,,2350.0
+2026,Feb,1,Tilapia (M),,,0.0
+2026,Feb,2,Seer (Ni-L),,,2690.0
+2026,Feb,2,Trevally (L),,,1291.6666666666667
+2026,Feb,2,Rock fish (L),,,1540.0
+2026,Feb,2,Rock fish (S),,,1300.0
+2026,Feb,2,Sail fish,,,1983.3333333333333
+2026,Feb,2,Skipjack tuna,,,1021.4285714285714
+2026,Feb,2,Yellowfin tuna,,,1341.6666666666667
+2026,Feb,2,Sardinella,,,445.8333333333333
+2026,Feb,2,Sharks,,,1100.0
+2026,Feb,2,Herrings,,,989.2857142857144
+2026,Feb,2,Indian Mackerel,,,1164.2857142857142
+2026,Feb,2,Pony fish,,,260.0
+2026,Feb,2,Katuwalla,,,550.0
+2026,Feb,2,Anchovy,,,464.2857142857143
+2026,Feb,2,"Prawns (M) 3""",,,2585.714285714286
+2026,Feb,2,Marlins,,,2278.5714285714284
+2026,Feb,2,Frigate tuna(L),,,1125.0
+2026,Feb,2,Kawakawa,,,1066.6666666666667
+2026,Feb,2,Red Bream(L),,,1550.0
+2026,Feb,2,Big eye scade,,,1141.6666666666667
+2026,Feb,2,Ginnati Paraw,,,1312.5
+2026,Feb,2,Needle fish,,,1257.142857142857
+2026,Feb,2,Indian Anchovies,,,2150.0
+2026,Feb,2,Barracuda(L),,,1433.3333333333333
+2026,Feb,2,Indian Scad(L),,,1042.857142857143
+2026,Feb,2,Indian Scad(S),,,775.0
+2026,Feb,2,Rainbow Runner,,,875.0
+2026,Feb,2,Threadfin  Bream,,,1366.6666666666667
+2026,Feb,2,White Sardinella,,,343.75
+2026,Feb,2,Squids /Cuttle fish(Peeli),,,1833.3333333333333
+2026,Feb,2,Sea Crabs(L),,,2442.8571428571427
+2026,Feb,2,Tilapia (M),,,400.0
+2026,Feb,3,Seer (Ni-L),,,2500.0
+2026,Feb,3,Trevally (L),,,1308.3333333333333
+2026,Feb,3,Rock fish (L),,,1508.3333333333333
+2026,Feb,3,Rock fish (S),,,1200.0
+2026,Feb,3,Sail fish,,,1864.2857142857144
+2026,Feb,3,Skipjack tuna,,,921.4285714285714
+2026,Feb,3,Yellowfin tuna,,,1250.0
+2026,Feb,3,Sardinella,,,450.0
+2026,Feb,3,Sharks,,,1300.0
+2026,Feb,3,Herrings,,,1110.0
+2026,Feb,3,Indian Mackerel,,,1292.857142857143
+2026,Feb,3,Pony fish,,,271.6666666666667
+2026,Feb,3,Katuwalla,,,633.3333333333334
+2026,Feb,3,Anchovy,,,412.5
+2026,Feb,3,"Prawns (M) 3""",,,2360.0
+2026,Feb,3,Marlins,,,2150.0
+2026,Feb,3,Frigate tuna(L),,,770.0
+2026,Feb,3,Kawakawa,,,1010.7142857142856
+2026,Feb,3,Red Bream(L),,,1541.6666666666667
+2026,Feb,3,Big eye scade,,,1083.3333333333333
+2026,Feb,3,Ginnati Paraw,,,1350.0
+2026,Feb,3,Needle fish,,,1128.571428571429
+2026,Feb,3,Indian Anchovies,,,1957.142857142857
+2026,Feb,3,Barracuda(L),,,1414.2857142857142
+2026,Feb,3,Indian Scad(L),,,1025.0
+2026,Feb,3,Indian Scad(S),,,878.5714285714286
+2026,Feb,3,Rainbow Runner,,,921.4285714285714
+2026,Feb,3,Threadfin  Bream,,,1325.0
+2026,Feb,3,White Sardinella,,,316.6666666666667
+2026,Feb,3,Squids /Cuttle fish(Peeli),,,2085.714285714286
+2026,Feb,3,Sea Crabs(L),,,2820.0
+2026,Feb,3,Tilapia (M),,,
+2026,Feb,4,Seer (Ni-L),,,2430.0
+2026,Feb,4,Trevally (L),,,1335.7142857142858
+2026,Feb,4,Rock fish (L),,,1316.6666666666667
+2026,Feb,4,Rock fish (S),,,1021.4285714285714
+2026,Feb,4,Sail fish,,,1900.0
+2026,Feb,4,Skipjack tuna,,,885.7142857142857
+2026,Feb,4,Yellowfin tuna,,,1207.142857142857
+2026,Feb,4,Sardinella,,,435.7142857142857
+2026,Feb,4,Sharks,,,1233.3333333333333
+2026,Feb,4,Herrings,,,966.6666666666666
+2026,Feb,4,Indian Mackerel,,,1257.142857142857
+2026,Feb,4,Pony fish,,,346.42857142857144
+2026,Feb,4,Katuwalla,,,580.0
+2026,Feb,4,Anchovy,,,375.0
+2026,Feb,4,"Prawns (M) 3""",,,2057.1428571428573
+2026,Feb,4,Marlins,,,2228.5714285714284
+2026,Feb,4,Frigate tuna(L),,,875.0
+2026,Feb,4,Kawakawa,,,1054.1666666666667
+2026,Feb,4,Red Bream(L),,,1420.0
+2026,Feb,4,Big eye scade,,,1133.3333333333333
+2026,Feb,4,Ginnati Paraw,,,1200.0
+2026,Feb,4,Needle fish,,,1135.7142857142858
+2026,Feb,4,Indian Anchovies,,,1640.0
+2026,Feb,4,Barracuda(L),,,1250.0
+2026,Feb,4,Indian Scad(L),,,985.7142857142856
+2026,Feb,4,Indian Scad(S),,,785.7142857142857
+2026,Feb,4,Rainbow Runner,,,914.2857142857144
+2026,Feb,4,Threadfin  Bream,,,1150.0
+2026,Feb,4,White Sardinella,,,306.25
+2026,Feb,4,Squids /Cuttle fish(Peeli),,,1940.0
+2026,Feb,4,Sea Crabs(L),,,2207.1428571428573
+2026,Feb,4,Tilapia (M),,,500.0
+2026,Jan,1,Seer (Ni-L),,,1800.0
+2026,Jan,1,Trevally (L),,,1300.0
+2026,Jan,1,Rock fish (L),,,1175.0
+2026,Jan,1,Rock fish (S),,,866.6666666666666
+2026,Jan,1,Sail fish,,,1766.6666666666667
+2026,Jan,1,Skipjack tuna,,,800.0
+2026,Jan,1,Yellowfin tuna,,,1583.3333333333333
+2026,Jan,1,Sardinella,,,480.0
+2026,Jan,1,Sharks,,,1180.0
+2026,Jan,1,Herrings,,,780.0
+2026,Jan,1,Indian Mackerel,,,1025.0
+2026,Jan,1,Pony fish,,,218.75
+2026,Jan,1,Katuwalla,,,533.3333333333334
+2026,Jan,1,Anchovy,,,
+2026,Jan,1,"Prawns (M) 3""",,,2216.6666666666665
+2026,Jan,1,Marlins,,,2108.333333333333
+2026,Jan,1,Frigate tuna(L),,,0.0
+2026,Jan,1,Kawakawa,,,900.0
+2026,Jan,1,Red Bream(L),,,1370.0
+2026,Jan,1,Big eye scade,,,870.0
+2026,Jan,1,Ginnati Paraw,,,1012.5
+2026,Jan,1,Needle fish,,,950.0
+2026,Jan,1,Indian Anchovies,,,1450.0
+2026,Jan,1,Barracuda(L),,,1100.0
+2026,Jan,1,Indian Scad(L),,,670.8333333333334
+2026,Jan,1,Indian Scad(S),,,585.0
+2026,Jan,1,Rainbow Runner,,,675.0
+2026,Jan,1,Threadfin  Bream,,,900.0
+2026,Jan,1,White Sardinella,,,337.5
+2026,Jan,1,Squids /Cuttle fish(Peeli),,,2075.0
+2026,Jan,1,Sea Crabs(L),,,2040.0
+2026,Jan,1,Tilapia (M),,,383.3333333333333
+2026,Jan,2,Seer (Ni-L),,,2589.285714285714
+2026,Jan,2,Trevally (L),,,1625.0
+2026,Jan,2,Rock fish (L),,,1680.0
+2026,Jan,2,Rock fish (S),,,1300.0
+2026,Jan,2,Sail fish,,,1864.2857142857144
+2026,Jan,2,Skipjack tuna,,,1208.3333333333333
+2026,Jan,2,Yellowfin tuna,,,1700.0
+2026,Jan,2,Sardinella,,,535.0
+2026,Jan,2,Sharks,,,1200.0
+2026,Jan,2,Herrings,,,985.7142857142856
+2026,Jan,2,Indian Mackerel,,,1341.6666666666667
+2026,Jan,2,Pony fish,,,357.1428571428572
+2026,Jan,2,Katuwalla,,,600.0
+2026,Jan,2,Anchovy,,,416.6666666666667
+2026,Jan,2,"Prawns (M) 3""",,,2307.1428571428573
+2026,Jan,2,Marlins,,,2221.428571428572
+2026,Jan,2,Frigate tuna(L),,,1150.0
+2026,Jan,2,Kawakawa,,,1233.3333333333333
+2026,Jan,2,Red Bream(L),,,1740.0
+2026,Jan,2,Big eye scade,,,1200.0
+2026,Jan,2,Ginnati Paraw,,,1433.3333333333333
+2026,Jan,2,Needle fish,,,1407.142857142857
+2026,Jan,2,Indian Anchovies,,,1992.857142857143
+2026,Jan,2,Barracuda(L),,,1640.0
+2026,Jan,2,Indian Scad(L),,,970.83
+2026,Jan,2,Indian Scad(S),,,779.1666666666666
+2026,Jan,2,Rainbow Runner,,,892.8571428571429
+2026,Jan,2,Threadfin  Bream,,,1350.0
+2026,Jan,2,White Sardinella,,,350.0
+2026,Jan,2,Squids /Cuttle fish(Peeli),,,1990.0
+2026,Jan,2,Sea Crabs(L),,,2521.428571428572
+2026,Jan,2,Tilapia (M),,,
+2026,Jan,3,Seer (Ni-L),,,2441.6666666666665
+2026,Jan,3,Trevally (L),,,1300.0
+2026,Jan,3,Rock fish (L),,,1428.571428571429
+2026,Jan,3,Rock fish (S),,,1107.142857142857
+2026,Jan,3,Sail fish,,,2142.8571428571427
+2026,Jan,3,Skipjack tuna,,,1057.142857142857
+2026,Jan,3,Yellowfin tuna,,,1607.142857142857
+2026,Jan,3,Sardinella,,,360.7142857142857
+2026,Jan,3,Sharks,,,1316.6666666666667
+2026,Jan,3,Herrings,,,928.5714285714286
+2026,Jan,3,Indian Mackerel,,,941.6666666666666
+2026,Jan,3,Pony fish,,,280.0
+2026,Jan,3,Katuwalla,,,533.3333333333334
+2026,Jan,3,Anchovy,,,400.0
+2026,Jan,3,"Prawns (M) 3""",,,2264.285714285714
+2026,Jan,3,Marlins,,,2442.8571428571427
+2026,Jan,3,Frigate tuna(L),,,820.0
+2026,Jan,3,Kawakawa,,,1075.0
+2026,Jan,3,Red Bream(L),,,1500.0
+2026,Jan,3,Big eye scade,,,833.3333333333334
+2026,Jan,3,Ginnati Paraw,,,1283.3333333333333
+2026,Jan,3,Needle fish,,,1150.0
+2026,Jan,3,Indian Anchovies,,,1800.0
+2026,Jan,3,Barracuda(L),,,1340.0
+2026,Jan,3,Indian Scad(L),,,821.4285714285714
+2026,Jan,3,Indian Scad(S),,,664.2857142857143
+2026,Jan,3,Rainbow Runner,,,808.3333333333334
+2026,Jan,3,Threadfin  Bream,,,1320.0
+2026,Jan,3,White Sardinella,,,280.0
+2026,Jan,3,Squids /Cuttle fish(Peeli),,,2157.1428571428573
+2026,Jan,3,Sea Crabs(L),,,2642.8571428571427
+2026,Jan,3,Tilapia (M),,,
+2026,Jan,4,Seer (Ni-L),,,2040.0
+2026,Jan,4,Trevally (L),,,1125.0
+2026,Jan,4,Rock fish (L),,,1230.0
+2026,Jan,4,Rock fish (S),,,900.0
+2026,Jan,4,Sail fish,,,1962.5
+2026,Jan,4,Skipjack tuna,,,810.7142857142857
+2026,Jan,4,Yellowfin tuna,,,1300.0
+2026,Jan,4,Sardinella,,,495.0
+2026,Jan,4,Sharks,,,1150.0
+2026,Jan,4,Herrings,,,950.0
+2026,Jan,4,Indian Mackerel,,,1187.5
+2026,Jan,4,Pony fish,,,343.75
+2026,Jan,4,Katuwalla,,,560.7142857142857
+2026,Jan,4,Anchovy,,,462.5
+2026,Jan,4,"Prawns (M) 3""",,,2257.1428571428573
+2026,Jan,4,Marlins,,,2228.5714285714284
+2026,Jan,4,Frigate tuna(L),,,
+2026,Jan,4,Kawakawa,,,937.5
+2026,Jan,4,Red Bream(L),,,1260.0
+2026,Jan,4,Big eye scade,,,940.0
+2026,Jan,4,Ginnati Paraw,,,1200.0
+2026,Jan,4,Needle fish,,,1064.2857142857142
+2026,Jan,4,Indian Anchovies,,,1775.0
+2026,Jan,4,Barracuda(L),,,1308.3333333333333
+2026,Jan,4,Indian Scad(L),,,853.5714285714286
+2026,Jan,4,Indian Scad(S),,,712.5
+2026,Jan,4,Rainbow Runner,,,835.7142857142857
+2026,Jan,4,Threadfin  Bream,,,1058.3333333333333
+2026,Jan,4,White Sardinella,,,362.5
+2026,Jan,4,Squids /Cuttle fish(Peeli),,,1741.6666666666667
+2026,Jan,4,Sea Crabs(L),,,1950.0
+2026,Jan,4,Tilapia (M),,,
+2026,Apr,1,Seer (Ni-L),1420.0,1691.67,2066.67
+2026,Apr,1,Trevally (L),992.86,1083.33,1141.67
+2026,Apr,1,Rock fish (L),1200.0,1100.0,1225.0
+2026,Apr,1,Rock fish (S),800.0,783.33,1083.33
+2026,Apr,1,Sail fish,1450.0,1350.0,1666.67
+2026,Apr,1,Skipjack tuna,808.33,814.29,945.83
+2026,Apr,1,Yellowfin tuna,1200.0,1107.14,1308.33
+2026,Apr,1,Sardinella,318.57,395.83,600.0
+2026,Apr,1,Sharks,933.33,1250.0,1200.0
+2026,Apr,1,Herrings,871.43,891.67,1100.0
+2026,Apr,1,Indian Mackerel,839.29,966.67,1162.5
+2026,Apr,1,Pony fish,262.5,290.0,287.5
+2026,Apr,1,Katuwalla,375.0,500.0,450.0
+2026,Apr,1,Anchovy,291.67,410.0,450.0
+2026,Apr,1,M) Prawns (M),1985.71,2028.57,2516.67
+2026,Apr,1,Marlins,1700.0,1521.43,1850.0
+2026,Apr,1,Frigate tuna(L),650.0,650.0,975.0
+2026,Apr,1,Kawakawa,940.0,964.29,1066.67
+2026,Apr,1,Red Bream(L),1120.83,1350.0,1300.0
+2026,Apr,1,Big eye scade,880.0,892.86,
+2026,Apr,1,Ginnati Paraw,868.75,1200.0,1300.0
+2026,Apr,1,Needle fish,870.0,966.67,1075.0
+2026,Apr,1,Indian Anchovies,1320.0,1375.0,1600.0
+2026,Apr,1,Barracuda(L),950.0,1008.33,1133.33
+2026,Apr,1,Indian Scad(L),740.71,750.0,904.17
+2026,Apr,1,Indian Scad(S),600.0,592.86,720.0
+2026,Apr,1,Rainbow Runner,700.0,700.0,766.67
+2026,Apr,1,Threadfin Bream,866.67,1010.0,1200.0
+2026,Apr,1,White Sardinella,252.86,294.0,450.0
+2026,Apr,1,Squids /Cuttle fish(Peeli),1750.0,1692.86,1716.67
+2026,Apr,1,L) Sea Crabs(L),2000.0,2510.0,2250.0
+2026,Apr,1,Tilapia (M),550.0,400.0,
+2026,Apr,2,Seer (Ni-L),1660.0,2066.67,2040.0
+2026,Apr,2,Trevally (L),1200.0,1141.67,1340.0
+2026,Apr,2,Rock fish (L),1333.33,1225.0,1500.0
+2026,Apr,2,Rock fish (S),862.5,1083.33,1100.0
+2026,Apr,2,Sail fish,1800.0,1666.67,1785.71
+2026,Apr,2,Skipjack tuna,1120.0,945.83,900.0
+2026,Apr,2,Yellowfin tuna,1620.0,1308.33,1475.0
+2026,Apr,2,Sardinella,411.37,600.0,629.17
+2026,Apr,2,Sharks,1100.0,1200.0,1116.67
+2026,Apr,2,Herrings,950.0,1100.0,917.86
+2026,Apr,2,Indian Mackerel,980.0,1162.5,1133.33
+2026,Apr,2,Pony fish,300.0,287.5,350.0
+2026,Apr,2,Katuwalla,500.0,450.0,750.0
+2026,Apr,2,Anchovy,304.08,450.0,400.0
+2026,Apr,2,M) Prawns (M),2050.0,2516.67,2228.57
+2026,Apr,2,Marlins,2008.33,1850.0,2157.14
+2026,Apr,2,Frigate tuna(L),862.5,975.0,
+2026,Apr,2,Kawakawa,1150.0,1066.67,1175.0
+2026,Apr,2,Red Bream(L),1400.0,1300.0,1600.0
+2026,Apr,2,Big eye scade,962.5,,1137.5
+2026,Apr,2,Ginnati Paraw,1200.0,1300.0,1380.0
+2026,Apr,2,Needle fish,1060.0,1075.0,1200.0
+2026,Apr,2,Indian Anchovies,1800.0,1600.0,1760.0
+2026,Apr,2,Barracuda(L),1120.0,1133.33,1383.33
+2026,Apr,2,Indian Scad(L),875.0,904.17,912.5
+2026,Apr,2,Indian Scad(S),668.75,720.0,675.0
+2026,Apr,2,Rainbow Runner,705.0,766.67,750.0
+2026,Apr,2,Threadfin Bream,1033.33,1200.0,1200.0
+2026,Apr,2,White Sardinella,349.0,450.0,462.5
+2026,Apr,2,Squids /Cuttle fish(Peeli),1648.33,1716.67,1825.0
+2026,Apr,2,L) Sea Crabs(L),2166.67,2250.0,2250.0
+2026,Apr,2,Tilapia (M),,,
+2026,Apr,3,Seer (Ni-L),1800.0,2040.0,1375.0
+2026,Apr,3,Trevally (L),1307.14,1340.0,1275.0
+2026,Apr,3,Rock fish (L),1242.86,1500.0,1400.0
+2026,Apr,3,Rock fish (S),900.0,1100.0,883.33
+2026,Apr,3,Sail fish,1807.14,1785.71,1425.0
+2026,Apr,3,Skipjack tuna,1100.0,900.0,885.71
+2026,Apr,3,Yellowfin tuna,1616.67,1475.0,1508.33
+2026,Apr,3,Sardinella,431.25,629.17,337.5
+2026,Apr,3,Sharks,1100.0,1116.67,1100.0
+2026,Apr,3,Herrings,800.0,917.86,887.5
+2026,Apr,3,Indian Mackerel,1091.67,1133.33,1100.0
+2026,Apr,3,Pony fish,216.67,350.0,337.5
+2026,Apr,3,Katuwalla,525.0,750.0,612.5
+2026,Apr,3,Anchovy,420.0,400.0,400.0
+2026,Apr,3,M) Prawns (M),2079.17,2228.57,2200.0
+2026,Apr,3,Marlins,2120.0,2157.14,1625.0
+2026,Apr,3,Frigate tuna(L),1066.67,,766.67
+2026,Apr,3,Kawakawa,1150.0,1175.0,833.33
+2026,Apr,3,Red Bream(L),1304.17,1600.0,1540.0
+2026,Apr,3,Big eye scade,937.5,1137.5,1025.0
+2026,Apr,3,Ginnati Paraw,1100.0,1380.0,1200.0
+2026,Apr,3,Needle fish,906.25,1200.0,1090.0
+2026,Apr,3,Indian Anchovies,1750.0,1760.0,1408.33
+2026,Apr,3,Barracuda(L),1125.0,1383.33,1141.67
+2026,Apr,3,Indian Scad(L),980.0,912.5,1050.0
+2026,Apr,3,Indian Scad(S),650.0,675.0,900.0
+2026,Apr,3,Rainbow Runner,737.5,750.0,910.0
+2026,Apr,3,Threadfin Bream,1075.0,1200.0,1300.0
+2026,Apr,3,White Sardinella,320.83,462.5,256.25
+2026,Apr,3,Squids /Cuttle fish(Peeli),1716.67,1825.0,1814.29
+2026,Apr,3,L) Sea Crabs(L),1942.86,2250.0,2458.33
+2026,Apr,3,Tilapia (M),500.0,,625.0
+2026,Apr,4,Seer (Ni-L),2033.33,1375.0,2140.0
+2026,Apr,4,Trevally (L),1312.5,1275.0,1271.43
+2026,Apr,4,Rock fish (L),1283.33,1400.0,1407.14
+2026,Apr,4,Rock fish (S),1000.0,883.33,1060.0
+2026,Apr,4,Sail fish,1742.86,1425.0,1528.57
+2026,Apr,4,Skipjack tuna,1046.43,885.71,907.14
+2026,Apr,4,Yellowfin tuna,1414.29,1508.33,1442.86
+2026,Apr,4,Sardinella,525.0,337.5,640.0
+2026,Apr,4,Sharks,1066.67,1100.0,1233.33
+2026,Apr,4,Herrings,1020.0,887.5,1020.0
+2026,Apr,4,Indian Mackerel,1108.33,1100.0,1250.0
+2026,Apr,4,Pony fish,325.0,337.5,300.0
+2026,Apr,4,Katuwalla,608.33,612.5,700.0
+2026,Apr,4,Anchovy,550.0,400.0,383.33
+2026,Apr,4,M) Prawns (M),1832.14,2200.0,1678.57
+2026,Apr,4,Marlins,2116.67,1625.0,1764.29
+2026,Apr,4,Frigate tuna(L),1000.0,766.67,712.5
+2026,Apr,4,Kawakawa,1125.0,833.33,1050.0
+2026,Apr,4,Red Bream(L),1375.0,1540.0,1466.67
+2026,Apr,4,Big eye scade,916.67,1025.0,
+2026,Apr,4,Ginnati Paraw,1200.0,1200.0,1312.5
+2026,Apr,4,Needle fish,1010.0,1090.0,1125.0
+2026,Apr,4,Indian Anchovies,2150.0,1408.33,1430.0
+2026,Apr,4,Barracuda(L),1290.0,1141.67,1433.33
+2026,Apr,4,Indian Scad(L),953.57,1050.0,978.57
+2026,Apr,4,Indian Scad(S),808.33,900.0,737.5
+2026,Apr,4,Rainbow Runner,885.0,910.0,841.67
+2026,Apr,4,Threadfin Bream,1108.33,1300.0,1240.0
+2026,Apr,4,White Sardinella,418.75,256.25,520.0
+2026,Apr,4,Squids /Cuttle fish(Peeli),1883.33,1814.29,1814.29
+2026,Apr,4,L) Sea Crabs(L),1816.67,2458.33,2478.57
+2026,Apr,4,Tilapia (M),,625.0,750.0
+2026,Jul,1,Seer (Ni-L),3280.0,2714.29,2675.0
+2026,Jul,1,Trevally (L),1314.29,1416.67,1616.67
+2026,Jul,1,Rock fish (L),1428.57,1800.0,1641.67
+2026,Jul,1,Rock fish (S),1120.0,1300.0,1312.5
+2026,Jul,1,Sail fish,1975.0,2257.14,2375.0
+2026,Jul,1,Skipjack tuna,939.29,1114.29,1160.0
+2026,Jul,1,Yellowfin tuna,1335.71,1650.0,1785.71
+2026,Jul,1,Sardinella,600.0,717.86,953.57
+2026,Jul,1,Sharks,1175.0,1550.0,1533.33
+2026,Jul,1,Herrings,964.29,1166.67,1325.0
+2026,Jul,1,Indian Mackerel,1212.5,1400.0,1557.14
+2026,Jul,1,Pony fish,266.67,287.5,425.0
+2026,Jul,1,Katuwalla,600.0,783.33,800.0
+2026,Jul,1,Anchovy,500.0,700.0,
+2026,Jul,1,M) Prawns (M),1475.0,1507.14,1617.86
+2026,Jul,1,Marlins,2366.67,2400.0,2830.0
+2026,Jul,1,Frigate tuna(L),880.0,1100.0,1175.0
+2026,Jul,1,Kawakawa,1016.67,1300.0,1330.0
+2026,Jul,1,Red Bream(L),1485.71,1720.0,1850.0
+2026,Jul,1,Big eye scade,1100.0,1350.0,1433.33
+2026,Jul,1,Ginnati Paraw,1330.0,1580.0,1725.0
+2026,Jul,1,Needle fish,1150.0,1242.86,1491.67
+2026,Jul,1,Indian Anchovies,1380.0,1960.0,1990.0
+2026,Jul,1,Barracuda(L),1341.67,1675.0,1800.0
+2026,Jul,1,Indian Scad(L),725.0,1100.0,1100.0
+2026,Jul,1,Indian Scad(S),610.0,953.57,860.0
+2026,Jul,1,Rainbow Runner,841.67,1000.0,1116.67
+2026,Jul,1,Threadfin Bream,1350.0,1420.0,1150.0
+2026,Jul,1,White Sardinella,466.0,468.75,783.33
+2026,Jul,1,Squids /Cuttle fish(Peeli),1775.0,2071.43,1941.67
+2026,Jul,1,L) Sea Crabs(L),2666.67,2450.0,2833.33
+2026,Jul,1,Tilapia (M),625.0,775.0,825.0
+2026,Jul,3,Seer (Ni-L),1671.43,2428.57,2133.33
+2026,Jul,3,Trevally (L),1300.0,1600.0,1520.0
+2026,Jul,3,Rock fish (L),1414.29,1700.0,1657.14
+2026,Jul,3,Rock fish (S),1114.29,1375.0,1033.33
+2026,Jul,3,Sail fish,1785.71,2385.71,2292.86
+2026,Jul,3,Skipjack tuna,829.17,1017.86,1021.43
+2026,Jul,3,Yellowfin tuna,1250.0,1583.33,1685.71
+2026,Jul,3,Sardinella,520.0,604.17,807.14
+2026,Jul,3,Sharks,1200.0,1383.33,1460.0
+2026,Jul,3,Herrings,860.71,1085.71,1125.0
+2026,Jul,3,Indian Mackerel,1260.0,1371.43,1142.86
+2026,Jul,3,Pony fish,287.5,450.0,350.0
+2026,Jul,3,Katuwalla,583.33,683.33,890.0
+2026,Jul,3,Anchovy,350.0,587.5,
+2026,Jul,3,M) Prawns (M),1635.71,1542.86,1578.57
+2026,Jul,3,Marlins,2264.29,2850.0,2742.86
+2026,Jul,3,Frigate tuna(L),825.0,1100.0,933.33
+2026,Jul,3,Kawakawa,966.67,1270.0,1221.43
+2026,Jul,3,Red Bream(L),1442.86,1750.0,1666.67
+2026,Jul,3,Big eye scade,1000.0,1412.5,1300.0
+2026,Jul,3,Ginnati Paraw,1333.33,1683.33,1750.0
+2026,Jul,3,Needle fish,1116.67,1328.57,1292.86
+2026,Jul,3,Indian Anchovies,1316.67,1762.5,1480.0
+2026,Jul,3,Barracuda(L),1400.0,1640.0,1600.0
+2026,Jul,3,Indian Scad(L),710.71,875.0,828.57
+2026,Jul,3,Indian Scad(S),588.57,692.86,650.0
+2026,Jul,3,Rainbow Runner,760.71,985.71,1100.0
+2026,Jul,3,Threadfin Bream,1058.33,1228.57,1233.33
+2026,Jul,3,White Sardinella,364.29,487.5,825.0
+2026,Jul,3,Squids /Cuttle fish(Peeli),1735.71,1950.0,1866.67
+2026,Jul,3,L) Sea Crabs(L),2071.43,2133.33,2335.71
+2026,Jul,3,Tilapia (M),650.0,675.0,643.75
+2026,Jul,4,Seer (Ni-L),1610.0,2133.33,2340.0
+2026,Jul,4,Trevally (L),1307.14,1520.0,1516.67
+2026,Jul,4,Rock fish (L),1387.5,1657.14,1490.0
+2026,Jul,4,Rock fish (S),1125.0,1033.33,1240.0
+2026,Jul,4,Sail fish,1750.0,2292.86,2200.0
+2026,Jul,4,Skipjack tuna,864.29,1021.43,1035.71
+2026,Jul,4,Yellowfin tuna,1483.33,1685.71,1614.29
+2026,Jul,4,Sardinella,475.0,807.14,646.43
+2026,Jul,4,Sharks,1100.0,1460.0,1500.0
+2026,Jul,4,Herrings,816.67,1125.0,991.67
+2026,Jul,4,Indian Mackerel,1225.0,1142.86,1157.14
+2026,Jul,4,Pony fish,350.0,350.0,375.0
+2026,Jul,4,M) Prawns (M),1678.58,1578.57,1685.71
+2026,Jul,4,Marlins,2000.0,2742.86,2528.57
+2026,Jul,4,Frigate tuna(L),1125.0,933.33,800.0
+2026,Jul,4,Kawakawa,1091.67,1221.43,1158.33
+2026,Jul,4,Red Bream(L),1650.0,1666.67,1516.67
+2026,Jul,4,Ginnati Paraw,1500.0,1750.0,1275.0
+2026,Jul,4,Needle fish,1200.0,1292.86,1164.29
+2026,Jul,4,Indian Anchovies,1485.71,1480.0,1466.67
+2026,Jul,4,Barracuda(L),1400.0,1600.0,1460.0
+2026,Jul,4,Indian Scad(L),717.86,828.57,710.71
+2026,Jul,4,Indian Scad(S),631.25,650.0,595.83
+2026,Jul,4,Rainbow Runner,764.29,1100.0,880.0
+2026,Jul,4,Threadfin Bream,1075.0,1233.33,1170.0
+2026,Jul,4,White Sardinella,392.86,825.0,512.5
+2026,Jul,4,Squids /Cuttle fish(Peeli),1770.0,1866.67,2250.0
+2026,Jul,4,L) Sea Crabs(L),2566.67,2335.71,2475.0
+2026,Jul,4,Tilapia (M),650.0,643.75,692.86
+2026,Jun,1,Seer (Ni-L),2550.0,2466.67,2900.0
+2026,Jun,1,Trevally (L),1383.33,1516.67,1641.67
+2026,Jun,1,Rock fish (L),1433.33,1658.33,1616.67
+2026,Jun,1,Rock fish (S),1125.0,1280.0,960.0
+2026,Jun,1,Sail fish,2071.43,2128.57,2150.0
+2026,Jun,1,Skipjack tuna,1242.86,1275.0,1275.0
+2026,Jun,1,Yellowfin tuna,1571.43,1771.43,1820.0
+2026,Jun,1,Sardinella,720.71,846.43,837.5
+2026,Jun,1,Sharks,1180.0,1400.0,1500.0
+2026,Jun,1,Herrings,,1260.0,1190.0
+2026,Jun,1,Indian Mackerel,1340.0,1564.29,1400.0
+2026,Jun,1,Pony fish,350.0,420.0,391.67
+2026,Jun,1,Katuwalla,700.0,825.0,900.0
+2026,Jun,1,Anchovy,483.33,640.0,600.0
+2026,Jun,1,M) Prawns (M),1616.67,1607.14,1791.67
+2026,Jun,1,Marlins,2342.86,2378.57,2460.0
+2026,Jun,1,Frigate tuna(L),1162.5,1150.0,1237.5
+2026,Jun,1,Kawakawa,1300.0,1380.0,1275.0
+2026,Jun,1,Red Bream(L),1537.5,1664.29,1866.67
+2026,Jun,1,Big eye scade,1083.33,1520.0,1400.0
+2026,Jun,1,Ginnati Paraw,1487.5,1650.0,1616.67
+2026,Jun,1,Needle fish,1240.0,1575.0,1408.33
+2026,Jun,1,Indian Anchovies,1750.0,2140.0,1933.33
+2026,Jun,1,Barracuda(L),1590.0,1650.0,1733.33
+2026,Jun,1,Indian Scad(L),1242.86,1450.0,1200.0
+2026,Jun,1,Indian Scad(S),1066.67,1200.0,912.5
+2026,Jun,1,Rainbow Runner,1040.0,987.5,1054.17
+2026,Jun,1,Threadfin Bream,1500.0,1316.67,1340.0
+2026,Jun,1,White Sardinella,541.67,662.5,625.0
+2026,Jun,1,Squids /Cuttle fish(Peeli),1892.86,2157.14,2100.0
+2026,Jun,1,L) Sea Crabs(L),2441.67,2650.0,2550.0
+2026,Jun,1,Tilapia (M),600.0,821.43,700.0
+2026,Jun,2,Seer (Ni-L),2725.0,2900.0,2700.0
+2026,Jun,2,Trevally (L),1600.0,1641.67,1733.33
+2026,Jun,2,Rock fish (L),1350.0,1616.67,1778.57
+2026,Jun,2,Rock fish (S),1040.0,960.0,1300.0
+2026,Jun,2,Sail fish,2100.0,2150.0,2250.0
+2026,Jun,2,Skipjack tuna,1025.0,1275.0,1364.29
+2026,Jun,2,Yellowfin tuna,1433.33,1820.0,1864.29
+2026,Jun,2,Sardinella,840.0,837.5,814.29
+2026,Jun,2,Sharks,1112.5,1500.0,1483.33
+2026,Jun,2,Herrings,1150.0,1190.0,1192.86
+2026,Jun,2,Indian Mackerel,1283.33,1400.0,1578.57
+2026,Jun,2,Pony fish,300.0,391.67,350.0
+2026,Jun,2,Katuwalla,600.0,900.0,800.0
+2026,Jun,2,Anchovy,566.67,600.0,858.33
+2026,Jun,2,M) Prawns (M),1608.33,1791.67,1550.0
+2026,Jun,2,Marlins,2483.33,2460.0,2442.86
+2026,Jun,2,Frigate tuna(L),975.0,1237.5,1350.0
+2026,Jun,2,Kawakawa,1200.0,1275.0,1425.0
+2026,Jun,2,Red Bream(L),1525.0,1866.67,1870.0
+2026,Jun,2,Big eye scade,1000.0,1400.0,1430.0
+2026,Jun,2,Ginnati Paraw,1400.0,1616.67,1592.86
+2026,Jun,2,Needle fish,1216.67,1408.33,1514.29
+2026,Jun,2,Indian Anchovies,1633.33,1933.33,2325.0
+2026,Jun,2,Barracuda(L),1580.0,1733.33,1650.0
+2026,Jun,2,Indian Scad(L),883.33,1200.0,1328.57
+2026,Jun,2,Indian Scad(S),720.0,912.5,1080.0
+2026,Jun,2,Rainbow Runner,883.33,1054.17,1042.86
+2026,Jun,2,Threadfin Bream,1500.0,1340.0,1866.67
+2026,Jun,2,White Sardinella,650.0,625.0,500.0
+2026,Jun,2,Squids /Cuttle fish(Peeli),1766.67,2100.0,2028.57
+2026,Jun,2,L) Sea Crabs(L),2440.0,2550.0,2521.43
+2026,Jun,2,Tilapia (M),450.0,700.0,725.0
+2026,Mar,1,Seer (Ni-L),1525.0,2430.0,1875.0
+2026,Mar,1,Trevally (L),1150.0,1335.71,1108.33
+2026,Mar,1,Rock fish (L),1250.0,1316.67,1200.0
+2026,Mar,1,Rock fish (S),833.33,1021.43,841.67
+2026,Mar,1,Sail fish,1270.0,1900.0,1675.0
+2026,Mar,1,Skipjack tuna,685.71,885.71,855.0
+2026,Mar,1,Yellowfin tuna,1035.71,1207.14,1130.0
+2026,Mar,1,Sardinella,482.14,435.71,435.0
+2026,Mar,1,Sharks,1050.0,1233.33,1150.0
+2026,Mar,1,Herrings,900.0,966.67,950.0
+2026,Mar,1,Indian Mackerel,900.0,1257.14,1162.5
+2026,Mar,1,Pony fish,216.67,346.43,262.5
+2026,Mar,1,Katuwalla,475.0,580.0,441.67
+2026,Mar,1,Anchovy,307.14,375.0,483.33
+2026,Mar,1,M) Prawns (M),1792.86,2057.14,2516.67
+2026,Mar,1,Marlins,1417.86,2228.57,1916.67
+2026,Mar,1,Frigate tuna(L),650.0,875.0,737.5
+2026,Mar,1,Kawakawa,787.5,1054.17,1000.0
+2026,Mar,1,Red Bream(L),1191.67,1420.0,1180.0
+2026,Mar,1,Big eye scade,860.0,1133.33,940.0
+2026,Mar,1,Ginnati Paraw,883.33,1200.0,1200.0
+2026,Mar,1,Needle fish,895.83,1135.71,920.0
+2026,Mar,1,Indian Anchovies,1958.33,1640.0,1808.33
+2026,Mar,1,Barracuda(L),1237.5,1250.0,1130.0
+2026,Mar,1,Indian Scad(L),771.43,985.71,862.5
+2026,Mar,1,Indian Scad(S),675.0,785.71,708.33
+2026,Mar,1,Rainbow Runner,700.0,914.29,850.0
+2026,Mar,1,Threadfin Bream,837.5,1150.0,960.0
+2026,Mar,1,White Sardinella,365.0,306.25,299.0
+2026,Mar,1,Squids /Cuttle fish(Peeli),1766.67,1940.0,1640.0
+2026,Mar,1,L) Sea Crabs(L),1790.0,2207.14,2362.5
+2026,Mar,1,Tilapia (M),450.0,500.0,
+2026,Mar,2,Seer (Ni-L),1300.0,1875.0,1900.0
+2026,Mar,2,Trevally (L),1000.0,1108.33,837.5
+2026,Mar,2,Rock fish (L),1030.0,1200.0,1033.33
+2026,Mar,2,Rock fish (S),750.0,841.67,733.33
+2026,Mar,2,Sail fish,1350.0,1675.0,1557.14
+2026,Mar,2,Skipjack tuna,725.0,855.0,821.43
+2026,Mar,2,Yellowfin tuna,1050.0,1130.0,1207.14
+2026,Mar,2,Sardinella,406.0,435.0,343.33
+2026,Mar,2,Sharks,900.0,1150.0,1010.0
+2026,Mar,2,Herrings,780.0,950.0,850.0
+2026,Mar,2,Indian Mackerel,758.33,1162.5,887.5
+2026,Mar,2,Pony fish,200.0,262.5,211.43
+2026,Mar,2,Katuwalla,512.5,441.67,650.0
+2026,Mar,2,Anchovy,279.17,483.33,360.0
+2026,Mar,2,M) Prawns (M),1870.0,2516.67,2050.0
+2026,Mar,2,Marlins,1558.33,1916.67,1733.33
+2026,Mar,2,Frigate tuna(L),700.0,737.5,725.0
+2026,Mar,2,Kawakawa,850.0,1000.0,900.0
+2026,Mar,2,Red Bream(L),1080.0,1180.0,1150.0
+2026,Mar,2,Big eye scade,758.33,940.0,880.0
+2026,Mar,2,Ginnati Paraw,733.33,1200.0,1175.0
+2026,Mar,2,Needle fish,750.0,920.0,1007.14
+2026,Mar,2,Indian Anchovies,1850.0,1808.33,1866.67
+2026,Mar,2,Barracuda(L),1066.67,1130.0,1050.0
+2026,Mar,2,Indian Scad(L),666.67,862.5,760.71
+2026,Mar,2,Indian Scad(S),560.0,708.33,668.75
+2026,Mar,2,Rainbow Runner,570.0,850.0,657.14
+2026,Mar,2,Threadfin Bream,690.0,960.0,964.29
+2026,Mar,2,White Sardinella,275.0,299.0,270.0
+2026,Mar,2,Squids /Cuttle fish(Peeli),1525.0,1640.0,1778.57
+2026,Mar,2,L) Sea Crabs(L),1766.67,2362.5,2180.0
+2026,Mar,2,Tilapia (M),,,500.0
+2026,Mar,3,Seer (Ni-L),1571.43,1900.0,1714.29
+2026,Mar,3,Trevally (L),1000.0,837.5,1014.29
+2026,Mar,3,Rock fish (L),1021.43,1033.33,1142.86
+2026,Mar,3,Rock fish (S),783.33,733.33,860.0
+2026,Mar,3,Sail fish,1492.86,1557.14,1435.71
+2026,Mar,3,Skipjack tuna,853.57,821.43,735.71
+2026,Mar,3,Yellowfin tuna,1004.17,1207.14,1100.0
+2026,Mar,3,Sardinella,404.17,343.33,300.0
+2026,Mar,3,Sharks,900.0,1010.0,1133.33
+2026,Mar,3,Herrings,858.33,850.0,907.14
+2026,Mar,3,Indian Mackerel,714.29,887.5,1025.0
+2026,Mar,3,Pony fish,212.5,211.43,246.43
+2026,Mar,3,Katuwalla,400.0,650.0,410.71
+2026,Mar,3,Anchovy,300.0,360.0,430.0
+2026,Mar,3,M) Prawns (M),1871.43,2050.0,2307.14
+2026,Mar,3,Marlins,1492.86,1733.33,1557.14
+2026,Mar,3,Frigate tuna(L),825.0,725.0,720.83
+2026,Mar,3,Kawakawa,1007.14,900.0,925.0
+2026,Mar,3,Red Bream(L),1107.14,1150.0,1141.67
+2026,Mar,3,Big eye scade,715.0,880.0,950.0
+2026,Mar,3,Ginnati Paraw,800.0,1175.0,1060.0
+2026,Mar,3,Needle fish,785.71,1007.14,950.0
+2026,Mar,3,Indian Anchovies,1620.0,1866.67,1466.67
+2026,Mar,3,Barracuda(L),1014.29,1050.0,1042.86
+2026,Mar,3,Indian Scad(L),623.57,760.71,753.57
+2026,Mar,3,Indian Scad(S),571.43,668.75,620.83
+2026,Mar,3,Rainbow Runner,558.33,657.14,778.57
+2026,Mar,3,Threadfin Bream,728.57,964.29,950.0
+2026,Mar,3,White Sardinella,255.0,270.0,258.33
+2026,Mar,3,Squids /Cuttle fish(Peeli),1685.0,1778.57,1607.14
+2026,Mar,3,L) Sea Crabs(L),1850.0,2180.0,2191.67
+2026,Mar,3,Tilapia (M),,500.0,
+2026,Mar,4,Seer (Ni-L),1357.14,1714.29,1691.67
+2026,Mar,4,Trevally (L),950.0,1014.29,1083.33
+2026,Mar,4,Rock fish (L),1020.0,1142.86,1100.0
+2026,Mar,4,Rock fish (S),770.0,860.0,783.33
+2026,Mar,4,Sail fish,1392.86,1435.71,1350.0
+2026,Mar,4,Skipjack tuna,695.83,735.71,814.29
+2026,Mar,4,Yellowfin tuna,1100.0,1100.0,1107.14
+2026,Mar,4,Sardinella,353.57,300.0,395.83
+2026,Mar,4,Sharks,975.0,1133.33,1250.0
+2026,Mar,4,Herrings,857.14,907.14,891.67
+2026,Mar,4,Indian Mackerel,739.29,1025.0,966.67
+2026,Mar,4,Pony fish,240.0,246.43,290.0
+2026,Mar,4,Katuwalla,410.0,410.71,500.0
+2026,Mar,4,Anchovy,335.0,430.0,410.0
+2026,Mar,4,M) Prawns (M),1771.43,2307.14,2028.57
+2026,Mar,4,Marlins,1571.43,1557.14,1521.43
+2026,Mar,4,Frigate tuna(L),900.0,720.83,650.0
+2026,Mar,4,Kawakawa,942.86,925.0,964.29
+2026,Mar,4,Red Bream(L),1021.43,1141.67,1350.0
+2026,Mar,4,Big eye scade,690.0,950.0,892.86
+2026,Mar,4,Ginnati Paraw,858.33,1060.0,1200.0
+2026,Mar,4,Needle fish,778.57,950.0,966.67
+2026,Mar,4,Indian Anchovies,1500.0,1466.67,1375.0
+2026,Mar,4,Barracuda(L),1028.57,1042.86,1008.33
+2026,Mar,4,Indian Scad(L),689.29,753.57,750.0
+2026,Mar,4,Indian Scad(S),607.14,620.83,592.86
+2026,Mar,4,Rainbow Runner,635.71,778.57,700.0
+2026,Mar,4,Threadfin Bream,695.0,950.0,1010.0
+2026,Mar,4,White Sardinella,235.0,258.33,294.0
+2026,Mar,4,Squids /Cuttle fish(Peeli),1633.33,1607.14,1692.86
+2026,Mar,4,L) Sea Crabs(L),1642.86,2191.67,2510.0
+2026,Mar,4,Tilapia (M),,,400.0
+2026,May,1,Seer (Ni-L),1842.86,2140.0,2700.0
+2026,May,1,Trevally (L),1242.86,1271.43,1450.0
+2026,May,1,R)ock fish (L),1214.29,1407.14,1650.0
+2026,May,1,Rock fish (S),933.33,1060.0,1350.0
+2026,May,1,Sail fish,1733.33,1528.57,1675.0
+2026,May,1,Skipjack tuna,992.86,907.14,1241.67
+2026,May,1,Yellowfin tuna,1571.43,1442.86,1775.0
+2026,May,1,Sardinella,503.57,640.0,750.0
+2026,May,1,Sharks,1275.0,1233.33,1400.0
+2026,May,1,Herrings,1008.33,1020.0,1275.0
+2026,May,1,Indian Mackerel,1000.0,1250.0,1450.0
+2026,May,1,Pony fish,237.5,300.0,300.0
+2026,May,1,Katuwalla,600.0,700.0,608.33
+2026,May,1,Anchovy,535.0,383.33,300.0
+2026,May,1,M) Prawns (M),1885.71,1678.57,1991.67
+2026,May,1,Marlins,2042.86,1764.29,1941.67
+2026,May,1,Frigate tuna(L),840.0,712.5,950.0
+2026,May,1,Kawakawa,1066.67,1050.0,1262.5
+2026,May,1,Red Bream(L),1321.43,1466.67,1725.0
+2026,May,1,Big eye scade,812.5,,
+2026,May,1,Ginnati Paraw,1216.67,1312.5,1500.0
+2026,May,1,Needle fish,1042.86,1125.0,1266.67
+2026,May,1,Indian Anchovies,1541.67,1430.0,1580.0
+2026,May,1,Barracuda(L),1264.29,1433.33,1400.0
+2026,May,1,Indian Scad(L),746.43,978.57,1108.33
+2026,May,1,Indian Scad(S),591.67,737.5,900.0
+2026,May,1,Rainbow Runner,740.0,841.67,1012.5
+2026,May,1,Threadfin Bream,1183.33,1240.0,1400.0
+2026,May,1,White Sardinella,345.0,520.0,600.0
+2026,May,1,Squids /Cuttle fish(Peeli),1800.0,1814.29,1883.33
+2026,May,1,L) Sea Crabs(L),1950.0,2478.57,2200.0
+2026,May,1,Tilapia (M),650.0,750.0,850.0
+2026,May,2,Seer (Ni-L),1900.0,2700.0,2150.0
+2026,May,2,Trevally (L),1225.0,1450.0,1537.5
+2026,May,2,Rock fish (L),1237.5,1650.0,1533.33
+2026,May,2,Rock fish (S),1025.0,1350.0,1130.0
+2026,May,2,Sail fish,1875.0,1675.0,1878.57
+2026,May,2,Skipjack tuna,1125.0,1241.67,1153.57
+2026,May,2,Yellowfin tuna,1537.5,1775.0,1658.33
+2026,May,2,Sardinella,450.0,750.0,685.71
+2026,May,2,Sharks,1000.0,1400.0,1450.0
+2026,May,2,Herrings,1150.0,1275.0,1157.14
+2026,May,2,Indian Mackerel,1075.0,1450.0,1516.67
+2026,May,2,Pony fish,350.0,300.0,316.67
+2026,May,2,Katuwalla,600.0,608.33,720.0
+2026,May,2,Anchovy,400.0,300.0,600.0
+2026,May,2,M) Prawns (M),1750.0,1991.67,1792.86
+2026,May,2,Marlins,2162.5,1941.67,2142.86
+2026,May,2,Frigate tuna(L),800.0,950.0,787.5
+2026,May,2,Kawakawa,1100.0,1262.5,1116.67
+2026,May,2,Red Bream(L),1362.5,1725.0,1740.0
+2026,May,2,Big eye scade,900.0,,1366.67
+2026,May,2,Ginnati Paraw,1200.0,1500.0,1033.33
+2026,May,2,Needle fish,1075.0,1266.67,1328.57
+2026,May,2,Indian Anchovies,1516.67,1580.0,1600.0
+2026,May,2,Barracuda(L),1266.67,1400.0,1600.0
+2026,May,2,Indian Scad(L),793.75,1108.33,1135.71
+2026,May,2,Indian Scad(S),650.0,900.0,891.67
+2026,May,2,Rainbow Runner,787.5,1012.5,950.0
+2026,May,2,Threadfin Bream,1166.67,1400.0,1500.0
+2026,May,2,White Sardinella,293.75,600.0,550.0
+2026,May,2,Squids /Cuttle fish(Peeli),1800.0,1883.33,1850.0
+2026,May,2,L) Sea Crabs(L),1950.0,2200.0,2116.67
+2026,May,2,Tilapia (M),,850.0,783.33
+2026,May,3,Seer (Ni-L),3832.5,2150.0,2016.67
+2026,May,3,Trevally (L),2876.67,1537.5,1550.0
+2026,May,3,Rock fish (L),2393.33,1533.33,1678.57
+2026,May,3,Rock fish (S),2980.0,1130.0,1225.0
+2026,May,3,Sail fish,1850.0,1878.57,1914.29
+2026,May,3,Skipjack tuna,2826.67,1153.57,1260.71
+2026,May,3,Yellowfin tuna,733.33,1658.33,1750.0
+2026,May,3,Sardinella,1920.0,685.71,785.71
+2026,May,3,Sharks,1560.0,1450.0,1316.67
+2026,May,3,Herrings,1410.0,1157.14,1262.5
+2026,May,3,Indian Mackerel,,1516.67,1562.5
+2026,May,3,Pony fish,,316.67,428.57
+2026,May,3,Katuwalla,750.0,720.0,916.67
+2026,May,3,Anchovy,2437.5,600.0,655.0
+2026,May,3,M) Prawns (M),3240.0,1792.86,1542.86
+2026,May,3,Marlins,1293.33,2142.86,2128.57
+2026,May,3,Frigate tuna(L),1380.0,787.5,983.33
+2026,May,3,Kawakawa,1890.0,1116.67,1325.0
+2026,May,3,Red Bream(L),,1740.0,1820.0
+2026,May,3,Big eye scade,1693.33,1366.67,1510.0
+2026,May,3,Ginnati Paraw,1390.0,1033.33,1540.0
+2026,May,3,Needle fish,2060.0,1328.57,1466.67
+2026,May,3,Indian Anchovies,2510.0,1600.0,2025.0
+2026,May,3,Barracuda(L),1216.0,1600.0,1575.0
+2026,May,3,Indian Scad(L),1113.33,1135.71,1192.86
+2026,May,3,Indian Scad(S),,891.67,933.33
+2026,May,3,Rainbow Runner,470.0,950.0,750.0
+2026,May,3,Threadfin Bream,2190.0,1500.0,1490.0
+2026,May,3,White Sardinella,2715.0,550.0,800.0
+2026,May,3,Squids /Cuttle fish(Peeli),,1850.0,2125.0
+2026,May,3,L) Sea Crabs(L),,2116.67,2250.0
+2026,May,3,Tilapia (M),,783.33,750.0
+2026,May,4,Seer (Ni-L),2637.5,2016.67,2466.67
+2026,May,4,Trevally (L),1492.86,1550.0,1516.67
+2026,May,4,Rock fish (L),1450.0,1678.57,1658.33
+2026,May,4,Rock fish (S),1266.67,1225.0,1280.0
+2026,May,4,Sail fish,1942.86,1914.29,2128.57
+2026,May,4,Skipjack tuna,1235.71,1260.71,1275.0
+2026,May,4,Yellowfin tuna,1783.33,1750.0,1771.43
+2026,May,4,Sardinella,532.14,785.71,846.43
+2026,May,4,Sharks,1200.0,1316.67,1400.0
+2026,May,4,Herrings,1250.0,1262.5,1260.0
+2026,May,4,Indian Mackerel,1400.0,1562.5,1564.29
+2026,May,4,Pony fish,250.0,428.57,420.0
+2026,May,4,Katuwalla,633.33,916.67,825.0
+2026,May,4,Anchovy,500.0,655.0,640.0
+2026,May,4,M) Prawns (M),1766.67,1542.86,1607.14
+2026,May,4,Marlins,2242.86,2128.57,2378.57
+2026,May,4,Frigate tuna(L),1110.0,983.33,1150.0
+2026,May,4,Kawakawa,1283.33,1325.0,1380.0
+2026,May,4,Red Bream(L),1483.33,1820.0,1664.29
+2026,May,4,Big eye scade,1275.0,1510.0,1520.0
+2026,May,4,Ginnati Paraw,1375.0,1540.0,1650.0
+2026,May,4,Needle fish,1150.0,1466.67,1575.0
+2026,May,4,Indian Anchovies,1800.0,2025.0,2140.0
+2026,May,4,Barracuda(L),1550.0,1575.0,1650.0
+2026,May,4,Indian Scad(L),1117.86,1192.86,1450.0
+2026,May,4,Indian Scad(S),900.0,933.33,1200.0
+2026,May,4,Rainbow Runner,875.0,750.0,987.5
+2026,May,4,Threadfin Bream,1000.0,1490.0,1316.67
+2026,May,4,White Sardinella,393.5,800.0,662.5
+2026,May,4,Squids /Cuttle fish(Peeli),1741.67,2125.0,2157.14
+2026,May,4,L) Sea Crabs(L),1900.0,2250.0,2650.0
+2026,May,4,Tilapia (M),600.0,750.0,821.43
