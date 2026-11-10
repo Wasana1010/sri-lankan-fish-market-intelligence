@@ -89,32 +89,6 @@ The production application (`dashboard/app.py`) provides four functional workspa
 
 ---
 
-## ⚡ Quickstart Guide
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Wasana1010/sri-lankan-fish-market-intelligence.git
-cd sri-lankan-fish-market-intelligence
-```
-
-### 2. Set Up Virtual Environment & Install Dependencies
-```bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Linux/macOS:
-source venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-### 3. Launch the Streamlit Dashboard
-```bash
-streamlit run dashboard/app.py
-```
-Open `http://localhost:8501` in your browser.
-
----
 
 ## 👩‍💻 Author
 **Thilini Wasana**  
